@@ -12,6 +12,9 @@
     "lint:fix:unsafe": "biome lint . --unsafe",
     "og:dev": "x-satori -t ./docs/.vitepress/theme/components/OgImageTemplate.vue -c ./.vitepress/hooks/satoriConfig.ts --dev"
   },
+  "engines": {
+    "node": "20.x"
+  },
   "dependencies": {
     "@fmhy/colors": "^0.0.11",
     "@fmhy/components": "^0.0.3",
