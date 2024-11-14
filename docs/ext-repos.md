@@ -18,7 +18,7 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 
 | Name | Region | Auto | Manual |
 | - | - | - | - |
-| [Kohi-den](https://github.com/Kohi-den/extensions) | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json) | [URL](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json) |
+| [Almighty Hak ⭐](https://github.com/almightyhak/aniyomi-anime-repo) | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/almightyhak/aniyomi-anime-repo/main/index.min.json) | [URL](https://raw.githubusercontent.com/almightyhak/aniyomi-anime-repo/main/index.min.json) |
 | [ni3x](https://github.com/ni3x/aniyomi-extensions) | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/index.min.json) |
 | [Dark25](https://github.com/Dark25/aniyomi-extensions) | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Dark25/aniyomi-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Dark25/aniyomi-extensions/repo/index.min.json) |
 | [hollow](https://codeberg.org/hollow/aniyomi-extensions-fr) | :flag-france: | [Install](aniyomi://add-repo?url=https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json) | [URL](https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json) |
@@ -28,7 +28,7 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 ### Manga
 | Name | Region | Auto | Manual |
 | - | - | - | - |
-| [Keiyoushi](https://keiyoushi.github.io/) | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) |
+| [Keiyoushi ⭐](https://keiyoushi.github.io/) | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) |
 | [Kavita](https://github.com/Kareadita/tach-extension/) | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/Kareadita/tach-extension/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Kareadita/tach-extension/repo/index.min.json) |
 | [Suwayomi](https://github.com/Suwayomi/tachiyomi-extension) | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json) |
 

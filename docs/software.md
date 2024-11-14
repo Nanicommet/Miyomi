@@ -13,10 +13,10 @@ outline: [1,2]
 
 ## Anime Streaming
 
-- [Aniyomi](https://aniyomi.org/) :glowing-star: <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />[:mdi-github:](https://github.com/aniyomiorg/aniyomi)
+- [Aniyomi](https://aniyomi.org/) :glowing-star: <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/ext-repos" />[:mdi-github:](https://github.com/aniyomiorg/aniyomi)
   - [Animetail](https://github.com/Dark25/Animetail2)
   - [Animiru](https://github.com/quickdesh/Animiru)
-- [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />[:mdi-github:](https://github.com/rebelonion/Dantotsu)
+- [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/ext-repos" />[:mdi-github:](https://github.com/rebelonion/Dantotsu)
 - [Cloudstream](https://cloudstream.on.fleek.co/) [:mdi-github:](https://github.com/recloudstream/cloudstream)<Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.gg/wpX5Rfcx87" />
 - [Migu](https://miguapp.pages.dev/) [:mdi-github:](https://github.com/NoCrypt/migu)
 - [AnimeTV](https://amarullz.com/) [:mdi-github:](https://github.com/amarullz/AnimeTV)
@@ -47,7 +47,7 @@ outline: [1,2]
 ## Manga Readers
 
 ### Online
-- [Mihon](https://mihon.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" /> [:mdi-github:](https://github.com/mihonapp/mihon)
+- [Mihon](https://mihon.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/ext-repos" /> [:mdi-github:](https://github.com/mihonapp/mihon)
   - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:mdi-github:](https://github.com/jobobby04/TachiyomiSY)
   - [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) [:mdi-github:](https://github.com/Jays2Kings/tachiyomiJ2K)
   - [Yokai](https://mihon.app/forks/Yokai/) :glowing-star: [:mdi-github:](https://github.com/null2264/yokai)
@@ -58,7 +58,7 @@ outline: [1,2]
 - [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) <Badge type="info" text="Dev build" link="https://crafty.moe/tachiyomiAZ.apk" />[:mdi-github:](https://github.com/az4521/tachiyomiAZ)
 - [Animetail](https://github.com/Dark25/Animetail2)
 - [Aniyomi](https://aniyomi.org/) [:mdi-github:](https://github.com/aniyomiorg/aniyomi)
-- [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/guides/tech/repo" />[:mdi-github:](https://github.com/rebelonion/Dantotsu)
+- [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/ext-repos" />[:mdi-github:](https://github.com/rebelonion/Dantotsu)
 - [Neko](https://github.com/nekomangaorg/Neko)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Cubari](https://cubari.moe/) :mdi-earth:
@@ -393,7 +393,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [Mango](https://github.com/getmango/Mango) <Badge type="warning" text="Outdated" />
 
 ::: tip Mihon apps
-[**Android apps**](#manga-readers) that support the mihon extension system, can be used as clients for these hosting solutions. You can get extensions from [**here**](/guides/tech/repo.md)
+[**Android apps**](#manga-readers) that support the mihon extension system, can be used as clients for these hosting solutions. You can get extensions from [**here**](/ext-repos.md)
 :::
 
 #### Novels
@@ -418,7 +418,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 - [OwOCR](https://github.com/AuroraWright/owocr)
 - [Poricom](https://github.com/blueaxis/Poricom)
 - [Yomiwa](https://www.yomiwa.net/)
-- :material-symbols-subdirectory-arrow-right: [OCR Game tools](https://wotaku.wiki/games#tools)
+- :material-symbols-subdirectory-arrow-right: [OCR Game tools](https://miyomi.workers.dev/games#tools)
 
 :::danger Don't use MTL
 Using Machine Translation to translate manga will be a mess. Manga has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!

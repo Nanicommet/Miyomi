@@ -184,7 +184,7 @@ const handleClick = () => {
 			</div>
 		</div>
 		<div class="card-page cart-page-bottom">
-			<p class="card-text">Merry Christmas from the Wotaku team!</p>
+			<p class="card-text">Merry Christmas from the Miyomi team!</p>
 		</div>
 	</div>
 	<span class="click-icon" ref="clickIcon">

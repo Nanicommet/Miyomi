@@ -546,7 +546,7 @@ outline: 1
 ::: details :material-symbols-subdirectory-arrow-right: Related resources
 - [Invite route graph](https://inviteroute.github.io/graph/)
 - [Redacted Interview Prep](https://interviewfor.red/en/index.html)
-  - [Wotaku Audio Glossary](/glossary/audio.md)
+  - [Miyomi Audio Glossary](/glossary/audio.md)
 - [BakaBT Wiki](https://wiki.bakabt.me/index.php/Sign_up)
 
 :::

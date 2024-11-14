@@ -20,13 +20,13 @@ const sluggify = (text: string) =>
     .substring(0, 60)
 
 const getURL = (heading: string) =>
-  `https://wotaku.wiki${withBase(router.route.path)}#${sluggify(heading)}`
+  `https://miyomi.workers.dev${withBase(router.route.path)}#${sluggify(heading)}`
 
 const prompts = [
   'Make it count!',
   'Leave some feedback for us!',
   `We're all ears 🐰`,
-  'Tell us what is missing in Wotaku',
+  'Tell us what is missing in Miyomi',
   'Your thoughts matter to us 💡',
   'Feedback is a gift 🎁',
   'What do you think?',

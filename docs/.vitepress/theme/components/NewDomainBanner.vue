@@ -23,8 +23,8 @@ const dismiss = () => {
 <template>
   <div rel="el" class="banner">
     <div class="text">
-      wotaku.<bold class="font-bold">moe</bold> is now
-      <a class="underline" href="https://wotaku.wiki">wotaku.wiki</a>. Bookmark & share!!
+      Miyomi.<bold class="font-bold">moe</bold> is now
+      <a class="underline" href="https://miyomi.workers.dev">miyomi.workers.dev</a>. Bookmark & share!!
     </div>
     <button type="button" @click="dismiss">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">

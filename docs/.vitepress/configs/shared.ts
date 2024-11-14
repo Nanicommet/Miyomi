@@ -19,7 +19,7 @@ import {
 import { fileURLToPath, URL } from 'node:url'
 import UnoCSS from 'unocss/vite'
 
-export const hostname: string = 'https://wotaku.wiki'
+export const hostname: string = 'https://miyomi.workers.dev'
 export const excludedFiles = ['t.md']
 const GIT_COMMIT =
   /** Github actions commit hash */
@@ -35,89 +35,29 @@ const nav: DefaultTheme.NavItem[] = [
   {
     text: 'Pages',
     items: [
-      { text: 'Quick Start', link: '/qs' },
-      { text: 'FAQs', link: '/faq' },
-      { text: 'Websites', link: '/websites' },
-      { text: 'Software', link: '/software' },
-      { text: 'Misc-sites', link: '/misc' },
-      { text: 'Tools', link: '/tools' },
-      { text: 'Art', link: '/art' },
-      { text: 'Music', link: '/music' },
-      { text: 'Games', link: '/games' },
-      { text: 'Non-English', link: '/nonen' },
-      { text: 'NSFW', link: '/nsfw' },
-      { text: 'Merch', link: '/merch' },
-      { text: 'Scanlation', link: '/scanlation' },
-      { text: 'Communities', link: '/comms' }
-    ]
-  },
-  {
-    text: 'Japan',
-    items: [
-      { text: 'Language', link: '/japan/language' },
-      { text: 'Immersion', link: '/japan/immersion' },
-      { text: 'Software', link: '/japan/software' },
-      { text: 'Culture', link: '/japan/culture' }
-    ]
-  },
-  {
-    text: 'Glossary',
-    items: [
-      { text: 'General', link: '/glossary/general' },
-      { text: 'Anime', link: '/glossary/anime' },
-      { text: 'Manga', link: '/glossary/manga' },
-      { text: 'Audio', link: '/glossary/audio' },
-      { text: 'NSFW', link: '/glossary/nsfw' }
-    ]
-  },
-  {
-    text: 'Torrenting',
-    // @ts-expect-error
-    collapsed: true,
-    items: [
-      { text: 'Getting Started', link: '/torrenting/start' },
-      { text: 'FAQs', link: '/torrenting/faq' },
-      { text: 'Glossary', link: '/torrenting/glossary' },
-      { text: 'qBittorrent', link: '/torrenting/qbit' }
-    ]
-  },
-  {
-    text: 'Guides',
-    // @ts-expect-error
-    collapsed: true,
-    items: [
       {
-        text: 'Anime',
-        items: [
-          { text: 'Disc Ripping', link: '/guides/anime/discrip' },
-          { text: 'Fate / Type-Moon', link: '/guides/anime/fate' },
-          { text: 'Network Streaming', link: '/guides/anime/ns' }
-        ]
+        text: 'Quick Start',
+        link: '/qs'
       },
       {
-        text: 'Manga',
-        items: [
-          { text: 'Digital Manga Info', link: '/guides/manga/digim' },
-          { text: 'Madokami', link: '/guides/manga/madokami' },
-          { text: 'Manga Image Editing', link: '/guides/manga/imagedit' }
-        ]
+        text: 'Software',
+        link: '/software'
       },
       {
-        text: 'Music',
-        items: [
-          { text: 'FB2K Synced Lyrics', link: '/guides/music/fb2klyrics' },
-          { text: 'Squidify', link: '/guides/music/squidify' },
-          { text: 'Transcoding Audio', link: '/guides/music/transcoding' }
-        ]
+        text: 'Extension',
+        link: '/ext-repos'
       },
       {
-        text: 'Technical',
-        items: [
-          { text: 'Blocking Ads', link: '/guides/tech/adblock' },
-          { text: 'Extension Repos', link: '/guides/tech/repo' },
-          { text: 'IRC & XDCC', link: '/guides/tech/irc' },
-          { text: 'JDL2 Ad-removal', link: '/guides/tech/jdl' }
-        ]
+        text: 'FAQs',
+        link: '/faq'
+      },
+      {
+        text: 'Communities',
+        link: '/communities'
+      },
+      {
+        text: 'Credits',
+        link: '/credits'
       }
     ]
   },
@@ -143,130 +83,20 @@ const sidebar: DefaultTheme.Sidebar = [
     link: '/qs'
   },
   {
-    text: '<span class="i-lucide:message-circle-question"></span> FAQs',
-    link: '/faq'
-  },
-  {
-    text: '<span class="i-lucide:earth"></span> Websites',
-    link: '/websites'
-  },
-  {
     text: '<span class="i-lucide:box"></span> Software',
     link: '/software'
   },
   {
-    text: '<span class="i-lucide:folder-open"></span> Misc-sites',
-    link: '/misc'
+    text: '<span class="i-lucide:puzzle"></span> Extension',
+    link: '/ext-repos'
   },
   {
-    text: '<span class="i-lucide:wrench"></span> Tools',
-    link: '/tools'
-  },
-  {
-    text: '<span class="i-lucide:brush"></span> Art',
-    link: '/art'
-  },
-  {
-    text: '<span class="i-lucide:music"></span> Music',
-    link: '/music'
-  },
-  {
-    text: '<span class="i-lucide:gamepad-2"></span> Games',
-    link: '/games'
-  },
-  {
-    text: '<span class="i-lucide:map"></span> Non-English',
-    link: '/nonen'
-  },
-  {
-    text: '<span class="i-lucide:ban"></span> NSFW',
-    link: '/nsfw'
-  },
-  {
-    text: '<span class="i-lucide:package-2"></span> Merch',
-    link: '/merch'
-  },
-  {
-    text: '<span class="i-lucide:scroll-text"></span> Scanlation',
-    link: '/scanlation'
-  },
-  {
-    text: '<span class="i-uil:letter-japanese-a"></span> Japan',
-    collapsed: true,
-    items: [
-      { text: 'Language', link: '/japan/language' },
-      { text: 'Immersion', link: '/japan/immersion' },
-      { text: 'Software', link: '/japan/software' },
-      { text: 'Culture', link: '/japan/culture' }
-    ]
-  },
-  {
-    text: '<span class="i-lucide:book-open"></span> Glossary',
-    collapsed: true,
-    items: [
-      { text: 'General', link: '/glossary/general' },
-      { text: 'Anime', link: '/glossary/anime' },
-      { text: 'Manga', link: '/glossary/manga' },
-      { text: 'Audio', link: '/glossary/audio' },
-      { text: 'NSFW', link: '/glossary/nsfw' }
-    ]
-  },
-  {
-    text: '<span class="i-lucide:magnet"></span> Torrenting',
-    collapsed: true,
-    items: [
-      { text: 'Getting Started', link: '/torrenting/start' },
-      { text: 'FAQs', link: '/torrenting/faq' },
-      { text: 'Glossary', link: '/torrenting/glossary' },
-      { text: 'qBittorrent', link: '/torrenting/qbit' }
-    ]
-  },
-  {
-    text: '<span class="i-lucide:book-key"></span> Guides',
-    collapsed: true,
-    items: [
-      {
-        text: 'Anime',
-        collapsed: true,
-        items: [
-          { text: 'Disc Ripping', link: '/guides/anime/discrip' },
-          { text: 'Fate / Type-Moon', link: '/guides/anime/fate' },
-          { text: 'Network Streaming', link: '/guides/anime/ns' }
-        ]
-      },
-      {
-        text: 'Manga',
-        collapsed: true,
-        items: [
-          { text: 'Digital Manga Info', link: '/guides/manga/digim' },
-          { text: 'Madokami', link: '/guides/manga/madokami' },
-          { text: 'Manga Image Editing', link: '/guides/manga/imagedit' }
-        ]
-      },
-      {
-        text: 'Music',
-        collapsed: true,
-        items: [
-          { text: 'FB2K Synced Lyrics', link: '/guides/music/fb2klyrics' },
-          { text: 'Squidify', link: '/guides/music/squidify' },
-          { text: 'Transcoding Audio', link: '/guides/music/transcoding' }
-        ]
-      },
-      {
-        text: 'Technical',
-        collapsed: true,
-        items: [
-          { text: 'Blocking Ads', link: '/guides/tech/adblock' },
-          { text: 'Extension Repos', link: '/guides/tech/repo' },
-          { text: 'IRC & XDCC', link: '/guides/tech/irc' },
-          { text: 'JDL2 Ad-removal', link: '/guides/tech/jdl' }
-        ]
-      }
-    ]
+    text: '<span class="i-lucide:message-circle-question"></span> FAQs',
+    link: '/faq'
   },
   {
     text: '<span class="i-lucide:messages-square"></span> Communities',
-    link: '/comms'
+    link: '/communities'
   },
   {
     text: '<span class="i-lucide:heart-handshake"></span> Credits',
@@ -275,15 +105,15 @@ const sidebar: DefaultTheme.Sidebar = [
 ]
 
 export const shared: UserConfig<DefaultTheme.Config> = {
-  title: 'Wotaku',
+  title: 'Miyomi',
   description:
-    'Wotaku, the one-stop-shop for all your otaku interests. Here you can find websites for Anime, Manga, Light Novels, Music, Soundtracks, Games and Hentai. Our japanese learning section has books and videos about language, history and culture.',
+    'Your one-stop hub for links, apps, ext repos and more! 🌟',
   lang: 'en-US',
   lastUpdated: true,
   cleanUrls: true,
   ignoreDeadLinks: true,
   appearance: true,
-  titleTemplate: ':title • Wotaku.wiki by Duck',
+  titleTemplate: ':title • Miyomi by tas33n',
   head: [
     ['meta', { name: 'theme-color', content: '#56b4fc' }],
     ['meta', { name: 'og:type', content: 'website' }],
@@ -344,15 +174,10 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     emoji: { defs },
     config(md) {
       md.use(emojiRender)
-      // @ts-expect-error
       md.use(imgLazyload)
-      // @ts-expect-error
       md.use(align)
-      // @ts-expect-error
       md.use(figure)
-      // @ts-expect-error
       md.use(tabsMarkdownPlugin)
-      // @ts-expect-error
       md.use(imgSize)
       md.use(headersPlugin)
     }
@@ -392,15 +217,11 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     sidebar,
     nav,
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/wotakumoe/Wotaku' },
-      { icon: 'discord', link: 'https://discord.gg/vShRGx8ZBC' },
-      {
-        icon: 'bluesky',
-        link: 'https://bsky.app/profile/wotaku.wiki'
-      }
+      { icon: 'github', link: 'https://github.com/tas33n/miyomi' },
+      { icon: 'discord', link: '#' },
     ],
     footer: {
-      message: `<a href="https://github.com/wotakumoe">The Wotaku Team</a> <span class="divider">|</span> <a href="https://github.com/wotakumoe/Wotaku/commit/${GIT_COMMIT}">${GIT_COMMIT.slice(0, 7)}</a>`,
+      message: `<a href="https://github.com/tas33n/miyomi">The Miyomi Team</a> <span class="divider">|</span> <a href="https://github.com/tas33n/miyomi/commit/${GIT_COMMIT}">${GIT_COMMIT.slice(0, 7)}</a>`,
       copyright: `made with love and eepy energy`
     }
   },
@@ -426,7 +247,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       PagePropertiesMarkdownSection(),
       GitChangelog({
         maxGitLogCount: 20,
-        repoURL: 'https://github.com/wotakumoe/Wotaku'
+        repoURL: 'https://github.com/tas33n/miyomi'
       }),
       GitChangelogMarkdownSection({ sections: { disableContributors: true } }),
       UnoCSS({

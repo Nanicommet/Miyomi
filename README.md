@@ -1,26 +1,26 @@
-# <img src="/docs/public/asset/inaread.png" width="30px"> Wotaku
+# <img src="/docs/public/asset/inaread.png" width="30px"> miyomi
 
 An otaku index for everything! Kindly consider giving the repository a ⭐ star. This motivates us to
 enhance the wiki further. Also, don't hesitate to [suggest ideas](#submitting-a-link).
 
 # What is in the Wiki?
 
-- Curated Websites for [anime](https://wotaku.wiki/websites#anime),
-  [manga](https://wotaku.wiki/websites#manga), [music](https://wotaku.wiki/music),
-  [novels](https://wotaku.wiki/websites#novels) & [games](https://wotaku.wiki/games).
-- Anime, manga & novel software for [Android](https://wotaku.wiki/software#android),
-  [PC](https://wotaku.wiki/software#pc) & [iOS](https://wotaku.wiki/software#ios).
-- Various sites for [db, tracker & info](https://wotaku.wiki/misc#info),
-  [illustrations](https://wotaku.wiki/misc#illustrations),
-  [utility](https://wotaku.wiki/misc#utility) & [vtuber](https://wotaku.wiki/misc#vtuber)
-- Other related software for [phone](https://wotaku.wiki/tools#phone) &
-  [PC](https://wotaku.wiki/tools#pc), [extensions](https://wotaku.wiki/tools#extensions) &
-  [scripts](https://wotaku.wiki/tools#scripts)
+- Curated Websites for [anime](https://miyomi.workers.dev/websites#anime),
+  [manga](https://miyomi.workers.dev/websites#manga), [music](https://miyomi.workers.dev/music),
+  [novels](https://miyomi.workers.dev/websites#novels) & [games](https://miyomi.workers.dev/games).
+- Anime, manga & novel software for [Android](https://miyomi.workers.dev/software#android),
+  [PC](https://miyomi.workers.dev/software#pc) & [iOS](https://miyomi.workers.dev/software#ios).
+- Various sites for [db, tracker & info](https://miyomi.workers.dev/misc#info),
+  [illustrations](https://miyomi.workers.dev/misc#illustrations),
+  [utility](https://miyomi.workers.dev/misc#utility) & [vtuber](https://miyomi.workers.dev/misc#vtuber)
+- Other related software for [phone](https://miyomi.workers.dev/tools#phone) &
+  [PC](https://miyomi.workers.dev/tools#pc), [extensions](https://miyomi.workers.dev/tools#extensions) &
+  [scripts](https://miyomi.workers.dev/tools#scripts)
 - A rich list of resources to help you study the
-  [japanese language](https://wotaku.wiki/japan/language) and
-  [culture](https://wotaku.wiki/japan/culture).
-- Various resources for [merch](https://wotaku.wiki/merch) &
-  [scanlation](https://wotaku.wiki/scanlation).
+  [japanese language](https://miyomi.workers.dev/japan/language) and
+  [culture](https://miyomi.workers.dev/japan/culture).
+- Various resources for [merch](https://miyomi.workers.dev/merch) &
+  [scanlation](https://miyomi.workers.dev/scanlation).
 
 # Submitting a link
 
@@ -55,7 +55,7 @@ a Github or Discord account.
 
 ## GitHub
 
-You can also post an [issue](https://github.com/wotakumoe/Wotaku/issues/new) on the Github page.
+You can also post an [issue](https://github.com/tas33n/miyomi/issues/new) on the Github page.
 
 > This makes it easier for me to add it to the wiki, since we need to maintain the categories and
 > markdown style.
@@ -75,6 +75,6 @@ You can submit any feedback in our [discord server](https://discord.gg/vShRGx8ZB
 > [!NOTE]  
 > We may choose not to add the site if it is redundant or if it does not meet our preferences.
 
-# Wotaku Star History
+# Miyomi Star History
 
-![Stargazers over time](https://starchart.cc/wotakumoe/Wotaku.svg?variant=adaptive)
+![Stargazers over time](https://starchart.cc/tas33n/miyomi.svg?variant=adaptive)
