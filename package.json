@@ -3,9 +3,9 @@
   "type": "module",
   "scripts": {
     "postinstall": "nitropack prepare",
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs",
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
     "format": "biome format . --write",
     "lint": "biome lint .",
     "lint:fix": "biome lint . --write",
