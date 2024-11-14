@@ -20,7 +20,7 @@ const sluggify = (text: string) =>
     .substring(0, 60)
 
 const getURL = (heading: string) =>
-  `https://miyomi.workers.dev${withBase(router.route.path)}#${sluggify(heading)}`
+  `https://miyomi.vercel.app${withBase(router.route.path)}#${sluggify(heading)}`
 
 const prompts = [
   'Make it count!',

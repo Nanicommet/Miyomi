@@ -19,7 +19,7 @@ import {
 import { fileURLToPath, URL } from 'node:url'
 import UnoCSS from 'unocss/vite'
 
-export const hostname: string = 'https://miyomi.workers.dev'
+export const hostname: string = 'https://miyomi.vercel.app'
 export const excludedFiles = ['t.md']
 const GIT_COMMIT =
   /** Github actions commit hash */
