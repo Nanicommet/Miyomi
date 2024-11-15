@@ -9,7 +9,7 @@ hero:
   announcement:
     title: Tachiyomi & Mihon community
   image:
-    src: /plushies/webp/kronii.webp
+    src: /asset/miyomi.png
     alt: Miyomi
   actions:
     - theme: brand

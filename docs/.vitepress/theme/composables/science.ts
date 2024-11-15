@@ -178,7 +178,7 @@ export function createScienceProvider() {
   const sendEvent = (
     payload: EventPayload,
     callback?: (args: CallbackArgs) => void
-  ) => _sendEvent('https://wotaku.tasky.workers.dev/science', payload, callback)
+  ) => _sendEvent('https://miyomi.misfits.workers.dev/science', payload, callback)
 
   /**
    * Send a custom event.

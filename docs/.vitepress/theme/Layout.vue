@@ -130,9 +130,9 @@ const { Layout } = DefaultTheme
     <template #not-found>
       <NotFoundComponent />
     </template>
-    <template #sidebar-nav-after>
+    <!-- <template #sidebar-nav-after>
       <SidebarCard />
-    </template>
+    </template> -->
     <template #home-hero-info-before>
       <AnnouncementPill />
     </template>

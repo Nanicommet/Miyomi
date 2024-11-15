@@ -106,7 +106,7 @@ async function handleSubmit(type?: FeedbackType['type']) {
   }
 
   try {
-    const response = await fetch('https://wotaku.tasky.workers.dev', {
+    const response = await fetch('https://miyomi.misfits.workers.dev', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'

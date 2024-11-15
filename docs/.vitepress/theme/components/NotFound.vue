@@ -10,7 +10,7 @@ const imageSize = ref('550px') // Fixed size for the image
     <div class="text-center">
       <img
         :style="{ width: imageSize, height: 'auto' }"
-        src="/asset/404.gif"
+        src="/asset/404.png"
         alt="404 Image"
         class="mx-auto" />
       <p class="text-title-lg mt-4 font-bold leading-tight text-white">404</p>
