@@ -35,7 +35,7 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 ### Light Novel
 | Name | Region | Auto | Manual |
 | - | - | - | - |
-| [LNReader ](https://keiyoushi.github.io/) | :globe-showing-asia-australia: | [Install](lnreader://repo/add?url=https%3A%2F%2Fraw.githubusercontent.com%2FLNReader%2Flnreader-plugins%2Fplugins%2Fv3.0.0%2F.dist%2Fplugins.min.json) | [URL](https://lnreader.github.io/plugins) |
+| [LNReader ](https://lnreader.github.io/) | :globe-showing-asia-australia: | [Install](lnreader://repo/add?url=https%3A%2F%2Fraw.githubusercontent.com%2FLNReader%2Flnreader-plugins%2Fplugins%2Fv3.0.0%2F.dist%2Fplugins.min.json) | [URL](https://lnreader.github.io/plugins) |
 
 
 
