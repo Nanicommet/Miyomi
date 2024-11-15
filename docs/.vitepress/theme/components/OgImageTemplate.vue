@@ -5,7 +5,7 @@ defineProps<{ title: string; description?: string }>()
 <template>
   <span
     tw="w-full h-full bg-black flex flex-col"
-    style="background-image: url(https://i.postimg.cc/VvNk1wPx/Picsart-24-11-15-23-23-12-463-1.png);background-size: cover;background-repeat: no-repeat;">
+    style="background-image: url(https://i.postimg.cc/SNBYLXhj/miyomi.png);background-size: cover;background-repeat: no-repeat;">
     <span tw="p-10 w-full min-h-0 grow flex flex-col items-center justify-between">
       <span tw="w-full flex justify-between items-center text-4xl font-medium">
         <span tw="flex items-center">
