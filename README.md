@@ -8,10 +8,10 @@ You can post an [issue](https://github.com/tas33n/miyomi/issues/new) on the Gith
 
 <!-- ## Discord
 
-You can submit any feedback in our [discord server](https://discord.gg/vShRGx8ZBC) too! -->
+You can submit any feedback in our [discord server](https://discord.gg/) too! -->
 
 <!-- <p align="center">
-  <a href="https://discord.gg/vShRGx8ZBC">
+  <a href="https://discord.gg/">
     <img src="https://invidget.switchblade.xyz/vShRGx8ZBC" alt="Image Description" style="width: 400px; display: block; margin: 0 auto;">
   </a>
 </p>

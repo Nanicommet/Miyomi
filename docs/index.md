@@ -20,7 +20,7 @@ hero:
       link: https://github.com/tas33n/Miyomi
     - theme: alt
       text: Discord
-      link: https://discord.gg/vShRGx8ZBC
+      link: https://discord.gg/
 
 aside: left
 
