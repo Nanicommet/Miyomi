@@ -16,28 +16,28 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 
 ### Anime
 
-| Name                                                                      | Region                         | Auto                                                                                                                          | Manual                                                                                             |
-| ------------------------------------------------------------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| [Almighty Hak ⭐](https://github.com/almightyhak/aniyomi-anime-repo)      | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/almightyhak/aniyomi-anime-repo/main/index.min.json)        | [URL](https://raw.githubusercontent.com/almightyhak/aniyomi-anime-repo/main/index.min.json)        |
-| [ni3x](https://github.com/ni3x/aniyomi-extensions)                        | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/index.min.json)               | [URL](https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/index.min.json)               |
-| [Dark25](https://github.com/Dark25/aniyomi-extensions)                    | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Dark25/aniyomi-extensions/repo/index.min.json)             | [URL](https://raw.githubusercontent.com/Dark25/aniyomi-extensions/repo/index.min.json)             |
-| [hollow](https://codeberg.org/hollow/aniyomi-extensions-fr)               | :flag-france:                  | [Install](aniyomi://add-repo?url=https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json)          | [URL](https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json)          |
-| [Claudemirovsky](https://github.com/Claudemirovsky/cursedyomi-extensions) | :flag-brazil: :flag-turkiye:   | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json)  | [URL](https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json)  |
-| [Secozzi](https://github.com/Secozzi/aniyomi-extensions)                  | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.min.json) |
+| Name | Region | Auto | Manual |
+| - | - | - | - |
+| [Almighty Hak ](https://github.com/almightyhak/aniyomi-anime-repo) | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/almightyhak/aniyomi-anime-repo/main/index.min.json) | [URL](https://raw.githubusercontent.com/almightyhak/aniyomi-anime-repo/main/index.min.json) |
+| [ni3x](https://github.com/ni3x/aniyomi-extensions) | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/index.min.json) |
+| [Dark25](https://github.com/Dark25/aniyomi-extensions) | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Dark25/aniyomi-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Dark25/aniyomi-extensions/repo/index.min.json) |
+| [hollow](https://codeberg.org/hollow/aniyomi-extensions-fr) | :flag-france: | [Install](aniyomi://add-repo?url=https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json) | [URL](https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json) |
+| [Claudemirovsky](https://github.com/Claudemirovsky/cursedyomi-extensions) | :flag-brazil: :flag-turkiye: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json) |
+| [Secozzi](https://github.com/Secozzi/aniyomi-extensions) | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.min.json) |
 
 ### Manga
-
-| Name                                                        | Region                         | Auto                                                                                                                   | Manual                                                                                    |
-| ----------------------------------------------------------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| [Keiyoushi ⭐](https://keiyoushi.github.io/)                | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)         | [URL](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)         |
-| [Kavita](https://github.com/Kareadita/tach-extension/)      | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/Kareadita/tach-extension/repo/index.min.json)     | [URL](https://raw.githubusercontent.com/Kareadita/tach-extension/repo/index.min.json)     |
+| Name | Region | Auto | Manual |
+| - | - | - | - |
+| [Keiyoushi ](https://keiyoushi.github.io/) | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) |
+| [Kavita](https://github.com/Kareadita/tach-extension/) | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/Kareadita/tach-extension/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Kareadita/tach-extension/repo/index.min.json) |
 | [Suwayomi](https://github.com/Suwayomi/tachiyomi-extension) | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json) |
 
 ### Light Novel
+| Name | Region | Auto | Manual |
+| - | - | - | - |
+| [LNReader ](https://keiyoushi.github.io/) | :globe-showing-asia-australia: | [Install](lnreader://repo/add?url=https%3A%2F%2Fraw.githubusercontent.com%2FLNReader%2Flnreader-plugins%2Fplugins%2Fv3.0.0%2F.dist%2Fplugins.min.json) | [URL](https://lnreader.github.io/plugins) |
 
-| Name                                        | Region                         | Auto                                                                                                                                                   | Manual                                    |
-| ------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------- |
-| [LNReader ⭐](https://keiyoushi.github.io/) | :globe-showing-asia-australia: | [Install](lnreader://repo/add?url=https%3A%2F%2Fraw.githubusercontent.com%2FLNReader%2Flnreader-plugins%2Fplugins%2Fv3.0.0%2F.dist%2Fplugins.min.json) | [URL](https://lnreader.github.io/plugins) |
+
 
 ## Sideloading Methods
 
