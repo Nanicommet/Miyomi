@@ -64,17 +64,22 @@ To activate torrent features, navigate to **Profile avatar (top right) -> :mdi-c
 ___
 
 ::: center
-#### **Mihon & the forks**
+#### **Add Extensions to mihon & forks (Manga)**
 :::
 ___
 
-<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/wemPCkUCyxo" frameborder="0" allowfullscreen></iframe></div>
+<div class="video_wrapper">
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fiitachiyomi%2Fvideos%2F465057105914883%2F&show_text=false&width=476&t=0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+</div>
 
 ___
+
 
 ::: center
-#### **Dantotsu & the forks**
+#### **Add anime Extensions to Aniyomi, Kuukiyomi, and Animiru**
 :::
 ___
 
-<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/dubXV-R9lUM" frameborder="0" allowfullscreen></iframe></div>
+<div class="video_wrapper">
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fiitachiyomi%2Fvideos%2F840695694636237%2F&show_text=false&width=476&t=0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
