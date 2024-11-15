@@ -60,20 +60,6 @@ const nav: DefaultTheme.NavItem[] = [
         link: '/credits'
       }
     ]
-  },
-  {
-    text: 'Preferences',
-    items: [
-      {
-        component: 'PreferenceRadio',
-        props: {
-          text: 'Floating Takodachi',
-          group: 'takodachi',
-          options: ['Enable', 'Disable'],
-          defaultOption: 'Disable'
-        }
-      }
-    ]
   }
 ]
 
