@@ -12,10 +12,10 @@
   --vp-c-brand-dimm: rgba(177, 231, 238, 0.08);
 
   --vp-button-brand-border: var(--vp-c-brand-light);
-  --vp-button-brand-text: #ffffff;
+  --vp-button-brand-text: rgba(0, 0, 0, 0.87);
   --vp-button-brand-bg: var(--vp-c-brand);
   --vp-button-brand-hover-border: var(--vp-c-brand-light);
-  --vp-button-brand-hover-text: #ffffff;
+  --vp-button-brand-hover-text: rgba(0, 0, 0, 0.87);
   --vp-button-brand-hover-bg: var(--vp-c-brand-light);
   --vp-button-brand-active-border: var(--vp-c-brand-light);
   --vp-button-brand-active-text: #ffffff;
