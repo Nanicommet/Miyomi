@@ -1,6 +1,6 @@
 ---
 title: Credits
-description: All the contributors of Miyomi
+description: All the contributors of Wotaku
 lastUpdated: false
 prev: false
 ---
