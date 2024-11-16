@@ -208,7 +208,7 @@ export function createScienceProvider() {
   /**
    * Add Plausible script to the page to enable site verification.
    */
-  ;(window as unknown as any).plausible = trackEvent
+  ; (window as unknown as any).plausible = trackEvent
 
   /**
    * Encapsulate the pageview event to allow user to update the options at any time.

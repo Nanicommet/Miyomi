@@ -13,7 +13,7 @@ outline: [1, 2]
 
 ## Anime Streaming
 
-- [Aniyomi](https://aniyomi.org/) :glowing-star: <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/ext-repos" />[:mdi-github:](https://github.com/aniyomiorg/aniyomi)
+- [Aniyomi](https://aniyomi.org/) :glowing-star: <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/ext-repos#anime" />[:mdi-github:](https://github.com/aniyomiorg/aniyomi)
   - [Animetail](https://github.com/Dark25/Animetail2)
   - [Animiru](https://github.com/quickdesh/Animiru)
 - [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/ext-repos" />[:mdi-github:](https://github.com/rebelonion/Dantotsu)
@@ -50,7 +50,7 @@ outline: [1, 2]
 
 ### Online
 
-- [Mihon](https://mihon.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/ext-repos" /> [:mdi-github:](https://github.com/mihonapp/mihon)
+- [Mihon](https://mihon.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/ext-repos#manga" /> [:mdi-github:](https://github.com/mihonapp/mihon)
   - [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:mdi-github:](https://github.com/jobobby04/TachiyomiSY)
   - [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) [:mdi-github:](https://github.com/Jays2Kings/tachiyomiJ2K)
   - [Yokai](https://mihon.app/forks/Yokai/) :glowing-star: [:mdi-github:](https://github.com/null2264/yokai)
@@ -78,7 +78,7 @@ outline: [1, 2]
 
 ### Online
 
-- [LN Reader](https://github.com/LNReader/lnreader)
+- [LN Reader](https://github.com/LNReader/lnreader) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/ext-repos#light-novel" />
 - [Quicknovel](https://github.com/LagradOst/QuickNovel)
 - [Shosetsu](https://shosetsu.app/) [:mdi-gitlab:](https://gitlab.com/shosetsuorg/shosetsu)
 - [Ranobe](https://github.com/ranobe-org/ranobe)

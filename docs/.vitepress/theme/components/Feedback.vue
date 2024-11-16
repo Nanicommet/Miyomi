@@ -106,7 +106,7 @@ async function handleSubmit(type?: FeedbackType['type']) {
   }
 
   try {
-    const response = await fetch('https://miyomi.misfits.workers.dev', {
+    const response = await fetch('https://miyomi.misfits.workers.dev/feedback', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
@@ -114,12 +114,16 @@ async function handleSubmit(type?: FeedbackType['type']) {
       body: JSON.stringify(body)
     })
 
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`)
+    }
+
     const data = await response.json()
     if (data.error) {
       error.value = data.error
       return
     }
-    if (data.status === 'ok') {
+    if (data.success) {
       success.value = true
     }
   } catch (err) {
@@ -144,8 +148,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
 
 <template>
   <template v-if="props.heading">
-    <button
-      @click="toggleCard()"
+    <button @click="toggleCard()"
       class="bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary border-$vp-c-default-soft hover:border-primary ml-3 inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-1.5 text-sm font-medium transition-all duration-300 sm:h-6">
       <span :class="isCardShown === false ? `i-lucide:message-circle` : `i-lucide:circle-x`" />
     </button>
@@ -154,17 +157,14 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
     <button
       class="bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary px2 py1 border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-300"
       @click="toggleCard()">
-      <span
-        :class="
-          isCardShown === false ? `i-lucide:message-circle mr-2` : `i-lucide:circle-x mr-2`
+      <span :class="isCardShown === false ? `i-lucide:message-circle mr-2` : `i-lucide:circle-x mr-2`
         " />
       <span>Send Feedback</span>
     </button>
   </template>
 
   <Transition name="fade" mode="out-in">
-    <div
-      v-if="isCardShown"
+    <div v-if="isCardShown"
       class="border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] step mt-4 border-2 border-solid p-6">
       <Transition name="fade" mode="out-in">
         <div v-if="!feedback.type" class="step">
@@ -177,11 +177,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
             </div>
           </div>
           <div class="flex flex-wrap gap-2">
-            <button
-              v-for="item in feedbackOptions"
-              :key="item.value"
-              class="btn"
-              @click="handleSubmit(item.value)">
+            <button v-for="item in feedbackOptions" :key="item.value" class="btn" @click="handleSubmit(item.value)">
               <span>{{ item.label }}</span>
             </button>
           </div>
@@ -229,11 +225,8 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
                 <li>Sites focused on lolicon or furry stuff</li>
                 <li>
                   Sites listed in
-                  <a
-                    href="https://fmhy.net/unsafesites"
-                    class="text-primary text-underline font-semibold"
-                    >FMHY unsafe list</a
-                  >
+                  <a href="https://fmhy.net/unsafesites" class="text-primary text-underline font-semibold">FMHY unsafe
+                    list</a>
                 </li>
               </ol>
             </details>
@@ -253,25 +246,15 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
               </ol>
             </details>
           </div>
-          <textarea
-            v-model="feedback.message"
-            autofocus
-            class="input"
-            placeholder="What a lovely wiki!" />
+          <textarea v-model="feedback.message" autofocus class="input" placeholder="What a lovely wiki!" />
           <p class="desc mb-2">
             If you want a reply to your feedback, feel free to mention a contact in the message or
             join our
-            <a
-              class="text-primary text-underline font-semibold"
-              href="https://discord.gg/wZMuSGpZ8s">
+            <a class="text-primary text-underline font-semibold" href="https://discord.gg/wZMuSGpZ8s">
               Discord.
             </a>
           </p>
-          <button
-            type="submit"
-            class="btn btn-primary"
-            :disabled="isDisabled"
-            @click="handleSubmit()">
+          <button type="submit" class="btn btn-primary" :disabled="isDisabled" @click="handleSubmit()">
             Send Feedback 📩
           </button>
         </div>
@@ -284,7 +267,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
 </template>
 
 <style scoped lang="css">
-.step > * + * {
+.step>*+* {
   margin-top: 1rem;
 }
 

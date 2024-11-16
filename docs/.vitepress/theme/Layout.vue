@@ -115,24 +115,18 @@ const { Layout } = DefaultTheme
 <template>
   <Layout>
     <template #layout-top>
-      <img
-        id="takodachi"
-        ref="takodachiRef"
-        src="/takodachi.webp"
-        alt="Takodachi"
-        class="pointer-events-none fixed absolute z-[9999] h-10 w-10 opacity-0 transition-opacity duration-500"
-        :style="{
+      <img id="takodachi" ref="takodachiRef" src="/takodachi.webp" alt="Takodachi"
+        class="pointer-events-none fixed absolute z-[9999] h-10 w-10 opacity-0 transition-opacity duration-500" :style="{
           left: `${position.x}px`,
           top: `${position.y}px`,
-        }"
-      />
+        }" />
     </template>
     <template #not-found>
       <NotFoundComponent />
     </template>
-    <!-- <template #sidebar-nav-after>
+    <template #sidebar-nav-after>
       <SidebarCard />
-    </template> -->
+    </template>
     <template #home-hero-info-before>
       <AnnouncementPill />
     </template>
