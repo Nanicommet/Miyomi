@@ -3,7 +3,8 @@
   --vp-sidebar-width: 280px;
   --vp-nav-logo-height: 36px;
 
-  --vp-c-brand: #b1e7ee;
+  --vp-c-brand: var(--vp-c-brand-1);
+  /*#b1e7ee;*/
   --vp-c-brand-light: #d1f4f8;
   --vp-c-brand-lighter: #e7fbfd;
   --vp-c-brand-lightest: #f4fefe;
