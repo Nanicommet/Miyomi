@@ -6,7 +6,7 @@ const contributors = computed(() => contribs || ({} as Contributors))
 </script>
 
 <template>
-  <h1 class="text-center">Core Team</h1>
+  <h1 class="text-center">Core Team (wotaku)</h1>
   <hr />
   <div class="flex flex-wrap gap-4 pt-2">
     <div v-for="(c, index) of contributors.core" class="flex items-center gap-2">
@@ -28,7 +28,7 @@ const contributors = computed(() => contribs || ({} as Contributors))
     </div>
   </div>
   <span />
-  <h1 class="mt-30px text-center">Miyomi</h1>
+  <h1 class="mt-30px text-center">Miyomi Team</h1>
   <hr />
   <div class="flex flex-wrap gap-4 pt-2">
     <div v-for="(c, index) of contributors.miyomi" class="flex items-center gap-2">

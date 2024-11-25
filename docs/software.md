@@ -19,19 +19,22 @@ outline: [1, 2]
 - [Dantotsu](https://dantotsuapp.netlify.app/) <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/ext-repos" />[:mdi-github:](https://github.com/rebelonion/Dantotsu)
 - [Cloudstream](https://cloudstream.on.fleek.co/) [:mdi-github:](https://github.com/recloudstream/cloudstream)<Badge type="info" icon="i-mdi-puzzle-outline" text="Plugins" link="https://discord.gg/wpX5Rfcx87" />
 - [Migu](https://miguapp.pages.dev/) [:mdi-github:](https://github.com/NoCrypt/migu)
+- [Miru App](https://miru.js.org/)<Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="https://miru-repo.0n0.dev/" /> [:mdi-github:](https://github.com/miru-project/miru-app)
 - [AnimeTV](https://amarullz.com/) [:mdi-github:](https://github.com/amarullz/AnimeTV)
 
 ::: details More Apps
 
 - [Awery](https://github.com/MrBoomDeveloper/Awery)
 - [Himitsu](https://repodevil.vercel.app/) [:mdi-gitlab:](https://gitlab.com/RepoDevil/himitsu)
+- [Kaguya App](https://github.com/hoangvu12/kaguya-app/)
 - [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
   - :material-symbols-subdirectory-arrow-right: [Stremio Tools](#anime-tools)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [Miru App](https://miru.js.org/) [:mdi-github:](https://github.com/miru-project/miru-app)
+- [Kuukiyomi](https://github.com/LuftVerbot/Kuukiyomi)
 - [AnymeX](https://github.com/RyanYuuki/AnymeX)
 - [AniVu](https://github.com/SkyD666/AniVu)
 - [Animity](https://github.com/kl3jvi/animity)
+- [OtakuWorld](https://github.com/jakepurple13/OtakuWorld)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
   :::
 
