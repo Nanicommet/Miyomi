@@ -60,6 +60,38 @@ const nav: DefaultTheme.NavItem[] = [
         link: '/credits'
       }
     ]
+  },
+  {
+    text: 'Guides',
+    // @ts-expect-error
+    collapsed: true,
+    items: [
+      {
+        text: 'Anime',
+        items: [
+          { text: 'Disc Ripping', link: '/guides/anime/discrip' },
+          { text: 'Network Streaming', link: '/guides/anime/ns' }
+        ]
+      },
+      {
+        text: 'Manga',
+        items: [
+          { text: 'Digital Manga Info', link: '/guides/manga/digim' },
+          { text: 'JXL Manga Readers', link: '/guides/manga/jxl' },
+          { text: 'Madokami', link: '/guides/manga/madokami' },
+          { text: 'Manga Image Editing', link: '/guides/manga/imagedit' }
+        ]
+      },
+      {
+        text: 'Technical',
+        items: [
+          { text: 'Blocking Ads', link: '/guides/tech/adblock' },
+          { text: 'Extension Repos', link: '/guides/tech/repo' },
+          { text: 'IRC & XDCC', link: '/guides/tech/irc' },
+          { text: 'JDL2 Ad-removal', link: '/guides/tech/jdl' }
+        ]
+      }
+    ]
   }
 ]
 
@@ -87,7 +119,41 @@ const sidebar: DefaultTheme.Sidebar = [
   {
     text: '<span class="i-lucide:heart-handshake"></span> Credits',
     link: '/credits'
-  }
+  },
+  {
+    text: '<span class="i-lucide:book-key"></span> Guides',
+    collapsed: true,
+    items: [
+      {
+        text: 'Anime',
+        collapsed: true,
+        items: [
+          { text: 'Disc Ripping', link: '/guides/anime/discrip' },
+          { text: 'Network Streaming', link: '/guides/anime/ns' }
+        ]
+      },
+      {
+        text: 'Manga',
+        collapsed: true,
+        items: [
+          { text: 'Digital Manga Info', link: '/guides/manga/digim' },
+          { text: 'JXL Manga Readers', link: '/guides/manga/jxl' },
+          { text: 'Madokami', link: '/guides/manga/madokami' },
+          { text: 'Manga Image Editing', link: '/guides/manga/imagedit' }
+        ]
+      },
+      {
+        text: 'Technical',
+        collapsed: true,
+        items: [
+          { text: 'Blocking Ads', link: '/guides/tech/adblock' },
+          { text: 'Extension Repos', link: '/guides/tech/repo' },
+          { text: 'IRC & XDCC', link: '/guides/tech/irc' },
+          { text: 'JDL2 Ad-removal', link: '/guides/tech/jdl' }
+        ]
+      }
+    ]
+  },
 ]
 
 export const shared: UserConfig<DefaultTheme.Config> = {
