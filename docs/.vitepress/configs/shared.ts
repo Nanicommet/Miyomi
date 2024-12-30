@@ -146,7 +146,6 @@ const sidebar: DefaultTheme.Sidebar = [
         collapsed: true,
         items: [
           { text: 'Blocking Ads', link: '/guides/tech/adblock' },
-          { text: 'Extension Repos', link: '/guides/tech/repo' },
           { text: 'IRC & XDCC', link: '/guides/tech/irc' },
           { text: 'JDL2 Ad-removal', link: '/guides/tech/jdl' }
         ]
