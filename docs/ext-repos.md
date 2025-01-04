@@ -14,6 +14,8 @@ Due to DMCA takedown notices, [Tachiyomi](https://tachiyomi.org/) (now continued
 Some apps might not support **Auto Install method**. That doesn't mean the guide doesn't work. Try [**manual method**](#adding-repo). We have added [**video guides**](#video-guides) too. If your app still isn't getting any extensions, try redoing the process again using VPN.
 :::
 
+![](/banner/anime.png)
+
 ### Anime
 
 | Name | Region | Auto | Manual |

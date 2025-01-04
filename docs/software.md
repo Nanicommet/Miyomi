@@ -7,6 +7,7 @@ outline: [1, 2]
 
 <GradientCard title="Software" description="Enjoy anime, manga and novels on all your devices, no matter the OS!" theme="turquoise" variant="thin"/>
 
+![](/banner/anime.png)
 ## Anime Streaming
 
 | App Name        | Platforms                                                                            | Features                                                                                                                                    | Download/Info                                                                                         |
@@ -24,6 +25,7 @@ outline: [1, 2]
 
 ---
 
+![](/banner/manga.png)
 ## Manga Readers
 
 ### Online Readers
@@ -50,6 +52,8 @@ outline: [1, 2]
 | **OpenComic**      | :ic-baseline-window: :ic-baseline-apple: :mingcute-linux-fill: | Offline Reader       | [GitHub](https://github.com/ollm/OpenComic)                                                 |
 
 ---
+
+![](/banner/novel.png)
 
 ## Novel Readers
 
@@ -93,6 +97,8 @@ outline: [1, 2]
 
 ---
 
+![](/banner/trackers.png)
+
 ## Trackers
 
 | App Name    | Platforms                                 | Features            | Download/Info                                                                                                                         |
@@ -103,6 +109,8 @@ outline: [1, 2]
 | **Kitsune** | :ic-baseline-android:                     | Kitsu Tracker       | [GitHub](https://github.com/Drumber/Kitsune)                                                                                          |
 
 ---
+
+![](/banner/others.png)
 
 ## Others
 

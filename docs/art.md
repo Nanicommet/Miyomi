@@ -10,7 +10,7 @@ outline: [1,2]
 ::: danger All listed links contain NSFW material unless specified otherwise.
 :::
 
-![](/banner/sites.webp)
+![](/banner/sites.png)
 
 # Websites
 
@@ -110,7 +110,7 @@ outline: [1,2]
 - [:f: /w/](http://catalog.neet.tv/w/) <Badge type="danger" icon="i-mingcute-skull-fill" text="NSFL" />
 
 
-![](/banner/software.webp)
+![](/banner/software.png)
 
 # Software
 
@@ -164,7 +164,7 @@ outline: [1,2]
 - [get pixivpy token](https://github.com/eggplants/get-pixivpy-token)
 
 
-![](/banner/others.webp)
+![](/banner/others.png)
 
 # Others
 

@@ -11,7 +11,7 @@ outline: [2,3]
 If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, it has almost everything. If you don't know how to torrent yet, check out our [**how-to torrent guide**](/torrenting/start.md).
 :::
 
-![](/banner/wanime.png)
+![](/banner/anime.png)
 
 ## Anime
 
@@ -41,7 +41,7 @@ If you want to download something, check on [**Nyaa**](https://nyaa.si/) first, 
   - [Anikki](https://github.com/Kylart/Anikki) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
   - [Mangayomi](https://github.com/kodjodevf/mangayomi) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <Badge type="info" text="Torrent" /><Badge type="info" text="Online" />
 
-![](/banner/wmanga.png)
+![](/banner/manga.png)
 
 ## Manga
 

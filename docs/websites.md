@@ -7,7 +7,7 @@ outline: 1
 
 <GradientCard title="Websites" description="Online resources for anime, manga, novels and more." theme="turquoise" variant="thin"/>
 
-![](/banner/wanime.png)
+![](/banner/anime.png)
 
 # Anime
 
@@ -552,7 +552,7 @@ outline: 1
 :::
 
 
-![](/banner/wlegal.png)
+![](/banner/legal.png)
 
 # Legal
 
