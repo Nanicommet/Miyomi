@@ -39,6 +39,7 @@ const nav: DefaultTheme.NavItem[] = [
         text: 'Quick Start',
         link: '/qs'
       },
+      { text: 'Websites', link: '/websites' },
       {
         text: 'Software',
         link: '/software'
@@ -47,10 +48,14 @@ const nav: DefaultTheme.NavItem[] = [
         text: 'Extension',
         link: '/ext-repos'
       },
+      { text: 'Tools', link: '/tools' },
+      { text: 'Art', link: '/art' },
       {
         text: 'FAQs',
         link: '/faq'
       },
+      { text: 'NSFW', link: '/nsfw' },
+      { text: 'Scanlation', link: '/scanlation' },
       {
         text: 'Communities',
         link: '/communities'
@@ -59,6 +64,16 @@ const nav: DefaultTheme.NavItem[] = [
         text: 'Credits',
         link: '/credits'
       }
+    ]
+  },
+  {
+    text: 'Glossary',
+    items: [
+      { text: 'General', link: '/glossary/general' },
+      { text: 'Anime', link: '/glossary/anime' },
+      { text: 'Manga', link: '/glossary/manga' },
+      { text: 'Audio', link: '/glossary/audio' },
+      { text: 'NSFW', link: '/glossary/nsfw' }
     ]
   },
   {
@@ -104,20 +119,39 @@ const sidebar: DefaultTheme.Sidebar = [
     link: '/software'
   },
   {
+    text: '<span class="i-lucide:earth"></span> Websites',
+    link: '/websites'
+  },
+  {
     text: '<span class="i-lucide:puzzle"></span> Extension',
     link: '/ext-repos'
   },
   {
-    text: '<span class="i-lucide:message-circle-question"></span> FAQs',
-    link: '/faq'
+    text: '<span class="i-lucide:wrench"></span> Tools',
+    link: '/tools'
   },
   {
-    text: '<span class="i-lucide:messages-square"></span> Communities',
-    link: '/communities'
+    text: '<span class="i-lucide:brush"></span> Art',
+    link: '/art'
   },
   {
-    text: '<span class="i-lucide:heart-handshake"></span> Credits',
-    link: '/credits'
+    text: '<span class="i-lucide:ban"></span> NSFW',
+    link: '/nsfw'
+  },
+  {
+    text: '<span class="i-lucide:scroll-text"></span> Scanlation',
+    link: '/scanlation'
+  },
+  {
+    text: '<span class="i-lucide:book-open"></span> Glossary',
+    collapsed: true,
+    items: [
+      { text: 'General', link: '/glossary/general' },
+      { text: 'Anime', link: '/glossary/anime' },
+      { text: 'Manga', link: '/glossary/manga' },
+      { text: 'Audio', link: '/glossary/audio' },
+      { text: 'NSFW', link: '/glossary/nsfw' }
+    ]
   },
   {
     text: '<span class="i-lucide:book-key"></span> Guides',
@@ -151,6 +185,18 @@ const sidebar: DefaultTheme.Sidebar = [
         ]
       }
     ]
+  },
+  {
+    text: '<span class="i-lucide:message-circle-question"></span> FAQs',
+    link: '/faq'
+  },
+  {
+    text: '<span class="i-lucide:messages-square"></span> Communities',
+    link: '/communities'
+  },
+  {
+    text: '<span class="i-lucide:heart-handshake"></span> Credits',
+    link: '/credits'
   },
 ]
 

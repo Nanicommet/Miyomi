@@ -7,7 +7,7 @@ outline: 1
 
 <GradientCard title="Websites" description="Online resources for anime, manga, novels and more." theme="turquoise" variant="thin"/>
 
-![](/banner/wanime.webp)
+![](/banner/wanime.png)
 
 # Anime
 
@@ -253,7 +253,7 @@ outline: 1
 :::
 
 
-![](/banner/wmanga.webp)
+![](/banner/manga.png)
 
 # Manga
 
@@ -374,7 +374,7 @@ outline: 1
 :::
 
 
-![](/banner/wnovel.webp)
+![](/banner/novel.png)
 
 # Novels
 
@@ -430,7 +430,7 @@ outline: 1
 
 
 
-![](/banner/toku.webp)
+![](/banner/toku.png)
 
 # Tokusatsu
 
@@ -486,7 +486,7 @@ outline: 1
 - [Super Sentai](https://old.reddit.com/r/SuperSentai/)
 - [Ultraman](https://old.reddit.com/r/Ultraman/)
 
-![](/banner/comics.webp)
+![](/banner/comics.png)
 # Comics
 
 ## Online
@@ -528,7 +528,7 @@ outline: 1
   - [Comic Vine](https://comicvine.gamespot.com/)
   - [League of Comic Geeks](https://leagueofcomicgeeks.com/)
 
-![](/banner/wpt.webp)
+![](/banner/wpt.png)
 
 # Private Trackers
 
@@ -552,7 +552,7 @@ outline: 1
 :::
 
 
-![](/banner/wlegal.webp)
+![](/banner/wlegal.png)
 
 # Legal
 
