@@ -73,7 +73,7 @@ export const contribs = {
       avatar: '/pfp/nuff.png'
     },
     {
-      avatar: '/pfp/green.webp',
+      avatar: '/pfp/green.png',
       name: 'Green'
     },
     {

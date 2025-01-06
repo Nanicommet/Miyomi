@@ -16,6 +16,22 @@ import { type Vec2D, v2add, v2mag, v2norm, v2smul, v2sub } from './math'
 const { Layout } = DefaultTheme
 </script>
 
+<script lang="ts">
+export default {
+  mounted() {
+    const tables = document.querySelectorAll('table'); // Select all tables
+    tables.forEach((table) => {
+      const headers = Array.from(table.querySelectorAll('thead th')); // Get headers
+      table.querySelectorAll('tbody tr').forEach((row) => {
+        Array.from(row.children).forEach((cell, index) => {
+          cell.setAttribute('data-label', headers[index]?.textContent.trim());
+        });
+      });
+    });
+  },
+};
+</script>
+
 <template>
   <Layout>
     <template #not-found>

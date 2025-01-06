@@ -6,7 +6,7 @@ outline: 1
 
 <GradientCard title="FAQs" description="Answers to some of the most commonly asked questions about otaku topics." theme="turquoise" variant="thin"/>
 
-![](/banner/general.webp)
+![](/banner/general.png)
 
 # General
 
@@ -17,7 +17,7 @@ outline: 1
 :::
 
 
-![](/banner/manga.webp)
+![](/banner/manga.png)
 
 # Manga
 
@@ -31,7 +31,7 @@ We have listed the most trusted rippers in the [**Nyaa section**](/websites.md#n
 
 <br>
 
-![](/banner/anime.webp)
+![](/banner/anime.png)
 
 # Anime
 

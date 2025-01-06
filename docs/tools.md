@@ -7,7 +7,7 @@ outline: [1,2]
 
 <GradientCard title="Tools" description="Various tools and extensions to enhance your experience." theme="turquoise" variant="thin"/>
 
-![](/banner/phone.webp)
+![](/banner/phone.png)
 # Phone
 
 ## Downloader
@@ -64,7 +64,7 @@ outline: [1,2]
   - [Obtainium](https://github.com/ImranR98/Obtainium) :and:
 
 
-![](/banner/pc.webp)
+![](/banner/pc.png)
 
 # PC
 
@@ -239,7 +239,7 @@ outline: [1,2]
 - [Game Bounty](https://gamebounty.world/)
 
 
-![](/banner/ext.webp)
+![](/banner/ext.png)
 
 # Extensions
 
@@ -289,7 +289,7 @@ outline: [1,2]
 ::: tip [**Click here**](/guides/tech/adblock) for full adblock solutions.
 :::
 
-![](/banner/script.webp)
+![](/banner/script.png)
 
 # Scripts
 
