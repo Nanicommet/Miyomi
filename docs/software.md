@@ -32,8 +32,10 @@ outline: [1, 2]
 
 | App Name        | Platforms                                                      | Features                                                                                                                       | Download/Info                                                                                      |
 | --------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| **Mihon**       | :ic-baseline-window: :ic-baseline-apple: :mingcute-linux-fill: | <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/ext-repos#anime" />                                     | [Website](https://mihon.app/) \| [GitHub](https://github.com/mihonapp/mihon)                       |
+| **Mihon**       | :ic-baseline-android: | <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/ext-repos#anime" />                                     | [Website](https://mihon.app/) \| [GitHub](https://github.com/mihonapp/mihon)                       |
 | **TachiyomiSY** | :ic-baseline-android:                                          | <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/ext-repos#anime" />                                     | [Fork](https://mihon.app/forks/TachiyomiSY/) \| [GitHub](https://github.com/jobobby04/TachiyomiSY) |
+| **Yokai** | :ic-baseline-android:                                          | <Badge type="info" icon="i-mdi-puzzle-outline" text="Extension" link="/ext-repos#anime" />                                     | [Fork](https://mihon.app/forks/Yokai/) \| [GitHub](https://github.com/null2264/yokai |
+
 | **Cubari**      | :mdi-earth: (Web)                                              | Online Reader                                                                                                                  | [Website](https://cubari.moe/)                                                                     |
 | **Kotatsu**     | :ic-baseline-android:                                          | Online Reader                                                                                                                  | [Website](https://kotatsu.app/) \| [GitHub](https://github.com/KotatsuApp/Kotatsu)                 |
 | **Paperback**   | :ic-baseline-apple:                                            | <Badge type="tip" icon="i-mdi-puzzle-outline" text="Sources" link="https://thenetsky.github.io/netskys-extensions/" />         | [Website](https://paperback.moe/) \| [GitHub](https://github.com/Paperback-iOS/app)                |
@@ -64,6 +66,8 @@ outline: [1, 2]
 | **Calibre**        | :ic-baseline-window: :ic-baseline-apple: :mingcute-linux-fill: | Library Management                                                                         | [Website](https://calibre-ebook.com/) \| [GitHub](https://github.com/kovidgoyal/calibre)                         |
 | **Koodo Reader**   | :ic-baseline-window: :ic-baseline-apple: :mingcute-linux-fill: | Ebook Reader                                                                               | [Website](https://www.koodoreader.com/) \| [GitHub](https://github.com/koodo-reader/koodo-reader)                |
 | **Thorium Reader** | :ic-baseline-window: :ic-baseline-apple: :mingcute-linux-fill: | Ebook Reader                                                                               | [Website](https://www.edrlab.org/software/thorium-reader/) \| [GitHub](https://github.com/edrlab/thorium-reader) |
+| **QuickNovel**   | :ic-baseline-android:                                          | Adfree FOSS Android app for downloading novels and acts as an EPUB reader                                                                                   | [GitHub](https://github.com/LagradOst/QuickNovel)
+| **Shosetsu**   | :ic-baseline-android:                                          | FOSS app for reading LNs                                                                                   | [GitLab](https://gitlab.com/shosetsuorg/shosetsu)
 
 ---
 
@@ -116,7 +120,9 @@ outline: [1, 2]
 
 | App Name      | Platforms             | Features            | Download/Info                                          |
 | ------------- | --------------------- | ------------------- | ------------------------------------------------------ |
-| **Nekotatsu** | :ic-baseline-android: | Requires PC         | [GitHub](https://github.com/PhantomShift/nekotatsu)    |
+| **Nekotatsu** | :ic-baseline-window: :ic-baseline-apple: :mingcute-linux-fill: :ic-baseline-android: | Requires PC for pre-compiled binaries. Can be used with Termux on android once compiled from source        | [GitHub](https://github.com/PhantomShift/nekotatsu)    |
 | **SauceNAO**  | :ic-baseline-android: | Image Source Finder | [GitHub](https://github.com/LuK1337/SauceNAO)          |
 | **Trace.moe** | :ic-baseline-android: | Anime Scene Finder  | [GitHub](https://github.com/localhostov/trace.moe-app) |
-| **Tachisync** | :ic-baseline-android: | Requires PC         | [GitHub](https://github.com/axiel7/Tachisync)          |
+| **Tachisync** | :ic-baseline-android: | Synchronizes downloads on external devices       | [GitHub](https://github.com/axiel7/Tachisync)          |
+| **Koguma** | :ic-baseline-android: | Metadata creator for Tachiyomi/Mihon and forks        | [GitHub](https://github.com/ghostbear/koguma)          |
+| **SyncYomi** | :ic-baseline-window: :ic-baseline-apple: :mingcute-linux-fill: | Synchronize Tachiyomi library across multiple devices (SY for now)       | [GitHub](https://github.com/syncyomi/syncyomi)    |
