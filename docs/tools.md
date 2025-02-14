@@ -14,22 +14,22 @@ outline: [1,2]
 
 #### Android
 
-| Name | DDL | P2P | FOSS | Free |
-|-|-|-|-|-|
-| [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) :s: | :check-mark-button: | :check-mark-button: | :cross-mark: | Ads, feature limit |
-| [LibreTorrent](https://github.com/proninyaroslav/libretorrent) :s: | :cross-mark: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
-| [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) | :check-mark-button: | :check-mark-button: | :cross-mark: | Ads |
-| [Aria2App](https://github.com/devgianlu/Aria2App) | :check-mark-button: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
-| [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) | :cross-mark: | :check-mark-button: | :cross-mark: | Ads, theme limit |
-| [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) | :check-mark-button: | :check-mark-button: | :cross-mark: | :check-mark-button: |
-| [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) | :check-mark-button: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| Name                                                                                   | DDL                 | P2P                 | FOSS                | Free                |
+| -------------------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) :s: | :check-mark-button: | :check-mark-button: | :cross-mark:        | Ads, feature limit  |
+| [LibreTorrent](https://github.com/proninyaroslav/libretorrent) :s:                     | :cross-mark:        | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [ADM](https://play.google.com/store/apps/details?id=com.dv.adm)                        | :check-mark-button: | :check-mark-button: | :cross-mark:        | Ads                 |
+| [Aria2App](https://github.com/devgianlu/Aria2App)                                      | :check-mark-button: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)             | :cross-mark:        | :check-mark-button: | :cross-mark:        | Ads, theme limit    |
+| [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm)       | :check-mark-button: | :check-mark-button: | :cross-mark:        | :check-mark-button: |
+| [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed)              | :check-mark-button: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
 
 #### iOS
 
-| Name | DDL | P2P | FOSS |
-|-|-|-|-|
-| [fGet](https://apps.apple.com/us/app/fget-file-manager-browser/id1582654012) | :check-mark-button: | :cross-mark: | :cross-mark: |
-| [iTorrent](https://github.com/XITRIX/iTorrent) | :cross-mark: | :check-mark-button: | :check-mark-button: |
+| Name                                                                         | DDL                 | P2P                 | FOSS                |
+| ---------------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- |
+| [fGet](https://apps.apple.com/us/app/fget-file-manager-browser/id1582654012) | :check-mark-button: | :cross-mark:        | :cross-mark:        |
+| [iTorrent](https://github.com/XITRIX/iTorrent)                               | :cross-mark:        | :check-mark-button: | :check-mark-button: |
 
 
 ## Media
@@ -43,7 +43,7 @@ outline: [1,2]
   - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) :and:
   - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) :app::cs:
 - **Online**
-  - [Revanced](https://revanced.app/) :mdi-youtube::and: [:gh:](https://github.com/ReVanced/revanced-manager)
+  - [Revanced](https://revanced.app/) :mdi-youtube: :and: [:gh:](https://github.com/ReVanced/revanced-manager)
   - [Libretube](https://libretube.dev/) :mdi-youtube::and: [:gh:](https://github.com/libre-tube/LibreTube)
   - [Grayjay](https://grayjay.app/) :mdi-youtube::mdi-twitch::and: [:gl:](https://gitlab.futo.org/videostreaming/grayjay)
   - [uYou+](https://github.com/qnblackcat/uYouPlus) :mdi-youtube::app:
@@ -72,36 +72,36 @@ outline: [1,2]
 
 ### General
 
-| Software | OS | DDL | P2P | FOSS |
-|-|-|-|-|-|
-| [Internet Download Manager](https://www.internetdownloadmanager.com/) :s: | :win: | :check-mark-button: | :cross-mark: | :cross-mark: |
-| [qBittorrent](https://www.qbittorrent.org/) :s: [:gh:](https://github.com/qbittorrent/qBittorrent/) | :win::app::lin: | :cross-mark: | :check-mark-button: | :check-mark-button: |
-| [AB Download Manager](https://abdownloadmanager.com/) [:gh:](https://github.com/amir1376/ab-download-manager) | :win::lin: | :check-mark-button: | :cross-mark: | :check-mark-button: |
-| [aria2](https://aria2.github.io/) :s: [:gh:](https://github.com/aria2/aria2) | :cmd: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
-| [Deluge](https://www.deluge-torrent.org/) [:gh:](https://github.com/deluge-torrent/deluge) | :win::app::lin: | :cross-mark: | :check-mark-button: | :check-mark-button: |
-| [File centipede](https://filecxx.com/en_US/index.html) [:gh:](https://github.com/filecxx/FileCentipede) | :win::lin: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
-| [Free Download Manager](https://www.freedownloadmanager.org/) | :win::app::lin: | :check-mark-button: | :check-mark-button: | :cross-mark: |
-| [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed) | :win::app::lin: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
-| [ImFile](https://imfile.io/) [:gh:](https://github.com/imfile-io/imfile-desktop/) | :win::app: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
-| [JDownloader](https://jdownloader.org/) | :win::app::lin: | :check-mark-button: | :cross-mark: | :cross-mark: |
-| [libtorrent](https://www.libtorrent.org/index.html) [:gh:](https://github.com/arvidn/libtorrent) | :cmd: | :cross-mark: | :check-mark-button: | :check-mark-button: |
-| [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
-| [MegaBasterd](https://github.com/tonikelope/megabasterd) | :win::app::lin: | :check-mark-button: | :cross-mark: | :check-mark-button: |
-| [Persepolis](https://persepolisdm.github.io/) [:gh:](https://github.com/persepolisdm/persepolis) | :win::app::lin: | :check-mark-button: | :cross-mark: | :check-mark-button: |
-| [TIXATI](https://www.tixati.com/) | :win::lin: | :cross-mark: | :check-mark-button: | :cross-mark: |
-| [Transmission](https://transmissionbt.com/) [:gh:](https://github.com/transmission/transmission) | :win::app::lin: | :cross-mark: | :check-mark-button: | :check-mark-button: |
-| [Xtreme Download Manager](https://xtremedownloadmanager.com/) [:gh:](https://github.com/subhra74/xdm) | :win::app::lin: | :check-mark-button: | :cross-mark: | :check-mark-button: |
+| Software                                                                                                      | OS              | DDL                 | P2P                 | FOSS                |
+| ------------------------------------------------------------------------------------------------------------- | --------------- | ------------------- | ------------------- | ------------------- |
+| [Internet Download Manager](https://www.internetdownloadmanager.com/) :s:                                     | :win:           | :check-mark-button: | :cross-mark:        | :cross-mark:        |
+| [qBittorrent](https://www.qbittorrent.org/) :s: [:gh:](https://github.com/qbittorrent/qBittorrent/)           | :win::app::lin: | :cross-mark:        | :check-mark-button: | :check-mark-button: |
+| [AB Download Manager](https://abdownloadmanager.com/) [:gh:](https://github.com/amir1376/ab-download-manager) | :win::lin:      | :check-mark-button: | :cross-mark:        | :check-mark-button: |
+| [aria2](https://aria2.github.io/) :s: [:gh:](https://github.com/aria2/aria2)                                  | :cmd:           | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [Deluge](https://www.deluge-torrent.org/) [:gh:](https://github.com/deluge-torrent/deluge)                    | :win::app::lin: | :cross-mark:        | :check-mark-button: | :check-mark-button: |
+| [File centipede](https://filecxx.com/en_US/index.html) [:gh:](https://github.com/filecxx/FileCentipede)       | :win::lin:      | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [Free Download Manager](https://www.freedownloadmanager.org/)                                                 | :win::app::lin: | :check-mark-button: | :check-mark-button: | :cross-mark:        |
+| [Gopeed](https://gopeed.com/) [:gh:](https://github.com/GopeedLab/gopeed)                                     | :win::app::lin: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [ImFile](https://imfile.io/) [:gh:](https://github.com/imfile-io/imfile-desktop/)                             | :win::app:      | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [JDownloader](https://jdownloader.org/)                                                                       | :win::app::lin: | :check-mark-button: | :cross-mark:        | :cross-mark:        |
+| [libtorrent](https://www.libtorrent.org/index.html) [:gh:](https://github.com/arvidn/libtorrent)              | :cmd:           | :cross-mark:        | :check-mark-button: | :check-mark-button: |
+| [Media Downloader](https://github.com/mhogomchungu/media-downloader)                                          | :win::app::lin: | :check-mark-button: | :check-mark-button: | :check-mark-button: |
+| [MegaBasterd](https://github.com/tonikelope/megabasterd)                                                      | :win::app::lin: | :check-mark-button: | :cross-mark:        | :check-mark-button: |
+| [Persepolis](https://persepolisdm.github.io/) [:gh:](https://github.com/persepolisdm/persepolis)              | :win::app::lin: | :check-mark-button: | :cross-mark:        | :check-mark-button: |
+| [TIXATI](https://www.tixati.com/)                                                                             | :win::lin:      | :cross-mark:        | :check-mark-button: | :cross-mark:        |
+| [Transmission](https://transmissionbt.com/) [:gh:](https://github.com/transmission/transmission)              | :win::app::lin: | :cross-mark:        | :check-mark-button: | :check-mark-button: |
+| [Xtreme Download Manager](https://xtremedownloadmanager.com/) [:gh:](https://github.com/subhra74/xdm)         | :win::app::lin: | :check-mark-button: | :cross-mark:        | :check-mark-button: |
 
 #### Related resources
 
-| Software | Materials |
-|-|-|
-| [aria2](https://aria2.github.io/) | [AriaNg](https://ariang.mayswind.net/) <br> [Aria2 Explorer](https://github.com/alexhua/Aria2-Explorer) <br> [Aria2 Integration](https://github.com/baptistecdr/aria2-extensions) <br> [Aria2 Manager](https://github.com/alexhua/Aria2-Manager) <br> [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) |
-| [Internet Download Manager](https://www.internetdownloadmanager.com/) | [Installation Guide](https://rentry.org/installidm) |
-| [JDownloader](https://jdownloader.org/) | [Remove ads](/guides/tech/jdl) |
-| [MegaBasterd](https://github.com/tonikelope/megabasterd) | [Account generator](https://github.com/qtchaos/py_mega_account_generator) <br> [MegaDoctor](https://github.com/tonikelope/megadoctor) |
-| [qBittorrent](https://www.qbittorrent.org/) | [Theme Index](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes) <br> [Search Plugins](https://github.com/qbittorrent/search-plugins) <br> [qBitController](https://github.com/Bartuzen/qBitController) <br> [VueTorrent](https://github.com/VueTorrent/VueTorrent) |
-| [Transmission](https://transmissionbt.com/) | [Transmission Remote GUI](https://github.com/transmission-remote-gui/transgui) |
+| Software                                                              | Materials                                                                                                                                                                                                                                                                                                                      |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [aria2](https://aria2.github.io/)                                     | [AriaNg](https://ariang.mayswind.net/) <br> [Aria2 Explorer](https://github.com/alexhua/Aria2-Explorer) <br> [Aria2 Integration](https://github.com/baptistecdr/aria2-extensions) <br> [Aria2 Manager](https://github.com/alexhua/Aria2-Manager) <br> [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) |
+| [Internet Download Manager](https://www.internetdownloadmanager.com/) | [Installation Guide](https://rentry.org/installidm)                                                                                                                                                                                                                                                                            |
+| [JDownloader](https://jdownloader.org/)                               | [Remove ads](/guides/tech/jdl)                                                                                                                                                                                                                                                                                                 |
+| [MegaBasterd](https://github.com/tonikelope/megabasterd)              | [Account generator](https://github.com/qtchaos/py_mega_account_generator) <br> [MegaDoctor](https://github.com/tonikelope/megadoctor)                                                                                                                                                                                          |
+| [qBittorrent](https://www.qbittorrent.org/)                           | [Theme Index](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes) <br> [Search Plugins](https://github.com/qbittorrent/search-plugins) <br> [qBitController](https://github.com/Bartuzen/qBitController) <br> [VueTorrent](https://github.com/VueTorrent/VueTorrent)                             |
+| [Transmission](https://transmissionbt.com/)                           | [Transmission Remote GUI](https://github.com/transmission-remote-gui/transgui)                                                                                                                                                                                                                                                 |
 
 ### Media
 
@@ -153,25 +153,25 @@ outline: [1,2]
 
 ## mpv
 
-| **Category** | **Resources** |
-|---------------|----------------|
-| Resources | [mpv manual](https://mpv.io/manual/stable/) <br> [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/) <br> [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts) <br> [Awesome mpv](https://github.com/stax76/awesome-mpv) |
-| Alt UI | [ModernX](https://github.com/cyl0/ModernX) <br> [mpv.net](https://github.com/mpvnet-player/mpv.net) :s: <br> [Tethys](https://github.com/Zren/mpv-osc-tethys) <br> [uosc](https://github.com/tomasklaen/uosc) |
-| Video | [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua) <br> [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua) <br> [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts) <br> [thumbfast](https://github.com/po5/thumbfast/) |
-| QoL | [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager) <br> [trackselect](https://github.com/po5/trackselect) <br> [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua) |
-| Shaders | [ArtCNN](https://github.com/Artoriuz/ArtCNN) <br> [Prescalers](https://github.com/bjin/mpv-prescalers) |
-| Addons | [webtorrent mpv hook](https://github.com/mrxdst/webtorrent-mpv-hook) <br> [ani-skip](https://github.com/synacktraa/ani-skip) |
+| **Category** | **Resources**                                                                                                                                                                                                                                                                           |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Resources    | [mpv manual](https://mpv.io/manual/stable/) <br> [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/) <br> [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts) <br> [Awesome mpv](https://github.com/stax76/awesome-mpv)                  |
+| Alt UI       | [ModernX](https://github.com/cyl0/ModernX) <br> [mpv.net](https://github.com/mpvnet-player/mpv.net) :s: <br> [Tethys](https://github.com/Zren/mpv-osc-tethys) <br> [uosc](https://github.com/tomasklaen/uosc)                                                                           |
+| Video        | [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua) <br> [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua) <br> [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts) <br> [thumbfast](https://github.com/po5/thumbfast/) |
+| QoL          | [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager) <br> [trackselect](https://github.com/po5/trackselect) <br> [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua)                                                |
+| Shaders      | [ArtCNN](https://github.com/Artoriuz/ArtCNN) <br> [Prescalers](https://github.com/bjin/mpv-prescalers)                                                                                                                                                                                  |
+| Addons       | [webtorrent mpv hook](https://github.com/mrxdst/webtorrent-mpv-hook) <br> [ani-skip](https://github.com/synacktraa/ani-skip)                                                                                                                                                            |
 
 
 ## Fansubbing & Sub Tools
-| Category | Resources |  
-|--------------|---------------|  
-| General | [Aegisub](https://github.com/arch1t3cht/Aegisub) :win::app::lin: <br> [Subtitle Edit](https://www.nikse.dk/subtitleedit) :win: [:gh:](https://github.com/SubtitleEdit/subtitleedit) |  
-| Adobe | [m0nkrus](https://vk.com/monkrus) :win::app: <br> [RuTracker](https://rutracker.org/forum/index.php) :win::app: <br> [GenP](https://genpguides.github.io) :win: <br> [Download Pirate](https://www.downloadpirate.com/) :win: <br> [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb) |  
-| Encoding | [AviSynth+](https://avs-plus.net/) :win::app::lin: [:gh:](https://github.com/AviSynth/AviSynthPlus) <br> [mpvQC](https://mpvqc.github.io/) [:gh:](https://github.com/mpvqc/mpvQC) :win: <br> [StaxRip](https://github.com/staxrip/staxrip) :win: <br> [VapourSynth](https://www.vapoursynth.com/) :win: [:gh:](https://github.com/vapoursynth/vapoursynth) <br> [VapourSynth Database](https://vsdb.top/) |  
-| MKV Tools | [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) :win::app::lin: <br> [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :win::cs: <br> [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :web: [:gh:](https://github.com/qgustavor/mkv-extract/) <br> [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :win: |  
-| Sync | [FFsubsync](https://github.com/smacke/ffsubsync) :win::app::lin: <br> [Resync subtitles](https://animecards.site/subtitles/) :win: <br> [Sushi.net](https://github.com/maxpiva/Sushi.Net) :win::app::lin: |
-| Other | [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :win::app::lin: |
+| Category  | Resources                                                                                                                                                                                                                                                                                                                                                                                                 |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| General   | [Aegisub](https://github.com/arch1t3cht/Aegisub) :win::app::lin: <br> [Subtitle Edit](https://www.nikse.dk/subtitleedit) :win: [:gh:](https://github.com/SubtitleEdit/subtitleedit)                                                                                                                                                                                                                       |
+| Adobe     | [m0nkrus](https://vk.com/monkrus) :win::app: <br> [RuTracker](https://rutracker.org/forum/index.php) :win::app: <br> [GenP](https://genpguides.github.io) :win: <br> [Download Pirate](https://www.downloadpirate.com/) :win: <br> [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb)                                                                                                   |
+| Encoding  | [AviSynth+](https://avs-plus.net/) :win::app::lin: [:gh:](https://github.com/AviSynth/AviSynthPlus) <br> [mpvQC](https://mpvqc.github.io/) [:gh:](https://github.com/mpvqc/mpvQC) :win: <br> [StaxRip](https://github.com/staxrip/staxrip) :win: <br> [VapourSynth](https://www.vapoursynth.com/) :win: [:gh:](https://github.com/vapoursynth/vapoursynth) <br> [VapourSynth Database](https://vsdb.top/) |
+| MKV Tools | [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) :win::app::lin: <br> [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) :win::cs: <br> [MKV Extract](https://qgustavor.github.io/mkv-extract/en/) :web: [:gh:](https://github.com/qgustavor/mkv-extract/) <br> [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) :win:                                          |
+| Sync      | [FFsubsync](https://github.com/smacke/ffsubsync) :win::app::lin: <br> [Resync subtitles](https://animecards.site/subtitles/) :win: <br> [Sushi.net](https://github.com/maxpiva/Sushi.Net) :win::app::lin:                                                                                                                                                                                                 |
+| Other     | [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) :win::app::lin:                                                                                                                                                                                                                                                                                                                          |
 - :material-symbols-subdirectory-arrow-right: [Encoding & Fansubbing Guides](/misc#encoding-fansubbing-guides)
 - :material-symbols-subdirectory-arrow-right: [JP Learning centric tools](/japan/software#subtitles)
 
