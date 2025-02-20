@@ -209,7 +209,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
   cleanUrls: true,
   ignoreDeadLinks: true,
   appearance: true,
-  titleTemplate: ':title • Miyomi by tas33n',
+  titleTemplate: ':title • Miyomi',
   head: [
     ['meta', { name: 'theme-color', content: '#56b4fc' }],
     ['meta', { name: 'og:type', content: 'website' }],

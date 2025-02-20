@@ -1,7 +1,9 @@
 ---
 title: Mihon, Aniyomi & Dantotsu Extension Repos
-customDescription: Mihon, Aniyomi & Dantotsu Extension Repos & Guides
-outline: [3, 4]
+customDescription: Extension Repos & Guides for Mihon, Aniyomi & Dantotsu
+outline: [2, 3]
+og:
+  image: https://files.catbox.moe/l2g45x.png
 ---
 
 <GradientCard title="Extension Repos" description="Mihon, Aniyomi & Dantotsu Extension Repos & Guides" theme="turquoise" variant="thin"/>
@@ -14,55 +16,52 @@ Due to DMCA takedown notices, [Tachiyomi](https://tachiyomi.org/) (now continued
 Some apps might not support **Auto Install method**. That doesn't mean the guide doesn't work. Try [**manual method**](#adding-repo). We have added [**video guides**](#video-guides) too. If your app still isn't getting any extensions, try redoing the process again using VPN.
 :::
 
-![](/banner/anime.png)
-
 ### Anime
 
-| Name | Region | Auto | Manual |
-| - | - | - | - |
-| [Almighty Hak ](https://github.com/almightyhak/aniyomi-anime-repo) | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/almightyhak/aniyomi-anime-repo/main/index.min.json) | [URL](https://raw.githubusercontent.com/almightyhak/aniyomi-anime-repo/main/index.min.json) |
-| [ni3x](https://github.com/ni3x/aniyomi-extensions) | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/index.min.json) |
-| [Dark25](https://github.com/Dark25/aniyomi-extensions) | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Dark25/aniyomi-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Dark25/aniyomi-extensions/repo/index.min.json) |
-| [hollow](https://codeberg.org/hollow/aniyomi-extensions-fr) | :flag-france: | [Install](aniyomi://add-repo?url=https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json) | [URL](https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json) |
-| [Claudemirovsky](https://github.com/Claudemirovsky/cursedyomi-extensions) | :flag-brazil: :flag-turkiye: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json) |
-| [Secozzi](https://github.com/Secozzi/aniyomi-extensions) | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.min.json) |
-
-![](/banner/manga.png)
+| Name                                                                                                                                                                              | Region                         | Auto                                                                                                                          | Manual                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [Kohi-den](https://github.com/Kohi-den/extensions) [:mdi-github:](https://github.com/Kohi-den/extensions-source)<tooltip>Sorta maintains all the official extensions by Aniyomi</tooltip> | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)                   | [URL](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)                   |
+| [ni3x](https://github.com/ni3x/aniyomi-extensions)<tooltip>Focuses on Torrents and Ero anime</tooltip>                                                                            | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/index.min.json)               | [URL](https://raw.githubusercontent.com/ni3x/aniyomi-extensions/repo/index.min.json)               |
+| [hollow](https://codeberg.org/hollow/aniyomi-extensions-fr)                                                                                                                       | :flag-france:                  | [Install](aniyomi://add-repo?url=https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json)          | [URL](https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json)          |
+| [Claudemirovsky](https://github.com/Claudemirovsky/cursedyomi-extensions)                                                                                                         | :flag-brazil::flag-turkiye:    | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json)  | [URL](https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json)  |
+| [Secozzi](https://github.com/Secozzi/aniyomi-extensions)<tooltip>For Jellyfin and AniList viewer</tooltip>                                                                        | :globe-showing-asia-australia: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.min.json) |
 
 ### Manga
-| Name | Region | Auto | Manual |
-| - | - | - | - |
-| [Keiyoushi ](https://keiyoushi.github.io/) | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) |
-| [Kavita](https://github.com/Kareadita/tach-extension/) | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/Kareadita/tach-extension/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Kareadita/tach-extension/repo/index.min.json) |
-| [Suwayomi](https://github.com/Suwayomi/tachiyomi-extension) | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json) |
 
-![](/banner/novel.png)
-
-### Light Novel
-| Name | Region | Auto | Manual |
-| - | - | - | - |
-| [LNReader ](https://lnreader.github.io/) | :globe-showing-asia-australia: | [Install](lnreader://repo/add?url=https%3A%2F%2Fraw.githubusercontent.com%2FLNReader%2Flnreader-plugins%2Fplugins%2Fv3.0.0%2F.dist%2Fplugins.min.json) | [URL](https://lnreader.github.io/plugins) |
-
-
+| Name                                                                                                                                                                                       | Region                         | Auto                                                                                                                   | Manual                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| [Keiyoushi](https://keiyoushi.github.io/) [:mdi-github:](https://github.com/keiyoushi/extensions)<tooltip>Maintained by active Tachiyomi contributors</tooltip>                                    | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)         | [URL](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)         |
+| [Komikku](https://komikku-app.github.io/) [:mdi-github:](https://github.com/komikku-app/komikku-extensions)<tooltip>Mirrors Keiyoushi with a few tweaks for Komikku & original extension</tooltip> | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/komikku-app/extensions/repo/index.min.json)       | [URL](https://raw.githubusercontent.com/komikku-app/extensions/repo/index.min.json)       |
+| [Kavita](https://github.com/Kareadita/tach-extension/)                                                                                                                                     | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/Kareadita/tach-extension/repo/index.min.json)     | [URL](https://raw.githubusercontent.com/Kareadita/tach-extension/repo/index.min.json)     |
+| [Suwayomi](https://github.com/Suwayomi/tachiyomi-extension)                                                                                                                                | :globe-showing-asia-australia: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json) |
 
 ## Sideloading Methods
+
+### Mihon & forks
 
 #### Adding Repo
 
 - **Auto:** Click on **Install** and the repo will be sideloaded automatically.
 - **Manual:** Copy the **URL** (from the manual column) and put it in **:mdi-dots-horizontal:More -> :mdi-cog-outline:Settings -> :mdi-compass-outline:Browse -> Extension repos**.
 
-### Adding Extension
+---
+
+#### Adding Extension
 
 1. After [**adding the repo**](#adding-repo), go to **Home -> :mdi-compass:Browse -> Anime/Manga Extension**.
 2. Download & install your desired extension by clicking :mdi-download-outline:.
 3. Find it in the "**Installed**" section (at the top of the list) with :mdi-close-octagon: beside it.
 4. The extension is disabled by default, so click on the :mdi-shield-check-outline: icon to enable it.
 
-::: tip For Dantotsu & its forks
-Copy the **URL** (from the manual column) and put it in: **Profile avatar (top right) -> :mdi-cog:Settings -> :mdi-puzzle:Extensions -> Add Anime/Manga Repo**.
+### Dantotsu & forks
 
-To activate torrent features, navigate to **Profile avatar (top right) -> :mdi-cog:Settings -> :mdi-silverware-fork-knife:Add-ons**. Then download and install the **:mdi-magnet:Torrent Add-on**. Afterwards, switch on **:mdi-server:Enable Torrent**.
+#### Adding Repo
+
+- **Auto:** Click on **Install** and the repo will be sideloaded automatically.
+- **Manual:** Copy the **URL** (from the manual column) and put it in: **Profile avatar (top right) -> :mdi-cog:Settings -> :e:Extensions -> Add Anime/Manga Repo**.
+
+::: tip for torrent extensions
+To activate torrent features, navigate to **Profile avatar (top right) -> :mdi-cog:Settings -> :mdi-silverware-fork-knife:Add-ons**. Then download and install the **:mag:Torrent Add-on**. Afterwards, switch on **:mdi-server:Enable Torrent**.
 :::
 
 ### Video guides
@@ -71,28 +70,27 @@ To activate torrent features, navigate to **Profile avatar (top right) -> :mdi-c
 
 ::: center
 
-#### **Add Extensions to mihon & forks (Manga)**
+#### **Mihon & the forks**
 
 :::
 
 ---
 
-<div class="video_wrapper">
-<iframe src="https://www.facebook.com/plugins/video.php?height=450&href=https%3A%2F%2Fwww.facebook.com%2Fiitachiyomi%2Fvideos%2F465057105914883%2F&show_text=false&t=0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-</div>
+<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/wemPCkUCyxo" frameborder="0" allowfullscreen></iframe></div>
 
 ---
-
-</br>
 
 ::: center
 
-#### **Add anime Extensions to Aniyomi, Kuukiyomi, and Animiru**
+#### **Dantotsu & the forks**
 
 :::
 
 ---
 
-<div class="video_wrapper">
-<iframe src="https://www.facebook.com/plugins/video.php?height=450&href=https%3A%2F%2Fwww.facebook.com%2Fiitachiyomi%2Fvideos%2F840695694636237%2F&show_text=false&t=0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-</div>
+<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/dubXV-R9lUM" frameborder="0" allowfullscreen></iframe></div>
+
+::: info Auto install
+Dantotsu [**now supports**](https://github.com/rebelonion/Dantotsu/pull/558/commits/38d68a79761b59f6a5a6cbb7380cfdb99a82b21b) auto install method like mihon & forks.
+
+:::
