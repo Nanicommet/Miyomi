@@ -12,7 +12,7 @@ outline: [1,2]
 
 <br>
 
-- [Scanner Usage School Server](https://discord.gg/NCzxVB9) :s:
+- [Scanner Usage School Server](https://discord.gg/NCzxVB9) :glowing-star:
 - [r/Scanlation](https://old.reddit.com/r/Scanlation/)
 - [Manga Helpers](https://mangahelpers.com/)
 - [Font recommendations](https://discord.gg/ghGWcYSSUP)
@@ -47,7 +47,7 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 
 ## Blogs & Collections
 
-- [Quick Sand Scans Resource](https://quicksandscans.wordpress.com/resources/) :s:
+- [Quick Sand Scans Resource](https://quicksandscans.wordpress.com/resources/) :glowing-star:
 - [Inside Scanlation](https://www.insidescanlation.com/backgrounds/index.html)
 - [Scanlation Snacks](https://scanlationsnacks.wordpress.com/)
 - [Scanlation Font Sheets](https://cubari.moe/read/imgur/UmEpOL1/)
@@ -71,21 +71,21 @@ To remove clutter and dupe links, raw manga websites have been move to [**Non-En
 # Tools
 
 ## General
-- Adobe Software :paid::cs:
-  - [m0nkrus](https://vk.com/monkrus) :win::app:
-  - [RuTracker](https://rutracker.org/forum/index.php) :win::app:
-  - [GenP](https://genpguides.github.io) :win:
-  - [Download Pirate](https://www.downloadpirate.com/) :win:
+- Adobe Software :mdi-credit-card::mingcute-chrome-fill:
+  - [m0nkrus](https://vk.com/monkrus) :ic-baseline-window::ic-baseline-apple:
+  - [RuTracker](https://rutracker.org/forum/index.php) :ic-baseline-window::ic-baseline-apple:
+  - [GenP](https://genpguides.github.io) :ic-baseline-window:
+  - [Download Pirate](https://www.downloadpirate.com/) :ic-baseline-window:
   - [a.dove.isdumb.one](https://github.com/ignaciocastro/a-dove-is-dumb)
   - :material-symbols-subdirectory-arrow-right: Adobe Alternatives
     - [KennyNL](https://github.com/KenneyNL/Adobe-Alternatives)
     - [XdanielArt](https://rentry.org/adobealt)
-- [Affinity](https://affinity.serif.com/en-gb/) :win::app::paid::cs:
-- [Clip Studio Paint EX](https://www.clipstudio.net/en/function_ex/) :and::win::app::paid::cs:
-- [FireAlpaca](https://firealpaca.com/) :win::app::lin::fm::cs:
-- [MediBang Paint](https://medibangpaint.com/en/) :win::app::fm::cs:
-- [Krita](https://krita.org/en/) :win::app::lin: [:kde:](https://invent.kde.org/graphics/krita)
-- [GIMP](https://www.gimp.org/) :win::app::lin: [:gn:](https://gitlab.gnome.org/GNOME/gimp)
+- [Affinity](https://affinity.serif.com/en-gb/) :ic-baseline-window::ic-baseline-apple::mdi-credit-card::mingcute-chrome-fill:
+- [Clip Studio Paint EX](https://www.clipstudio.net/en/function_ex/) :ic-baseline-android::ic-baseline-window::ic-baseline-apple::mdi-credit-card::mingcute-chrome-fill:
+- [FireAlpaca](https://firealpaca.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mdi-cart::mingcute-chrome-fill:
+- [MediBang Paint](https://medibangpaint.com/en/) :ic-baseline-window::ic-baseline-apple::mdi-cart::mingcute-chrome-fill:
+- [Krita](https://krita.org/en/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:simple-icons-kde:](https://invent.kde.org/graphics/krita)
+- [GIMP](https://www.gimp.org/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: [:simple-icons-gnome:](https://gitlab.gnome.org/GNOME/gimp)
 
 
 ## Cleaning

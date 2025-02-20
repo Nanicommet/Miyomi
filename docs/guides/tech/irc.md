@@ -25,15 +25,15 @@ If you face any issues when connecting, try enabling **"Accept invalid SSL certi
 
 
 ## IRC Client
-- [Revolution IRC](https://f-droid.org/packages/io.mrarm.irc/) :and:
-- [IRCCloud](https://github.com/irccloud/android) :and:
-- [HexChat](https://hexchat.github.io/)	:win: <tooltip>Repo is archived, but still works properly.</tooltip>
-- [mIRC](https://www.mirc.com/)	:win:
-- [AdiIRC](https://adiirc.com/)	:win:
-- [KVIrc](https://github.com/kvirc/KVIrc/releases) :win::lin::app:
-- [Irssi](https://irssi.org/) :lin:
-- [WeeChat](https://weechat.org/) :lin::app:
-- [LimeChat](https://apps.apple.com/us/app/limechat/id414030210) :app:
+- [Revolution IRC](https://f-droid.org/packages/io.mrarm.irc/) :ic-baseline-android:
+- [IRCCloud](https://github.com/irccloud/android) :ic-baseline-android:
+- [HexChat](https://hexchat.github.io/)	:ic-baseline-window: <tooltip>Repo is archived, but still works properly.</tooltip>
+- [mIRC](https://www.mirc.com/)	:ic-baseline-window:
+- [AdiIRC](https://adiirc.com/)	:ic-baseline-window:
+- [KVIrc](https://github.com/kvirc/KVIrc/releases) :ic-baseline-window::mingcute-linux-fill::ic-baseline-apple:
+- [Irssi](https://irssi.org/) :mingcute-linux-fill:
+- [WeeChat](https://weechat.org/) :mingcute-linux-fill::ic-baseline-apple:
+- [LimeChat](https://apps.apple.com/us/app/limechat/id414030210) :ic-baseline-apple:
 
 
 ::: info Client info

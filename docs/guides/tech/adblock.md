@@ -9,7 +9,7 @@ customDescription: Adblocking Solutions for every device
 ## Android
 
 - **System-wide**
-  - [Adguard](https://adguard.com/en/welcome.html) :s:
+  - [Adguard](https://adguard.com/en/welcome.html) :glowing-star:
   - [Adaway](https://adaway.org/)
   - [RethinkDNS](https://rethinkdns.com/)
   - :material-symbols-subdirectory-arrow-right: [DNS based](#dns)
@@ -22,21 +22,21 @@ customDescription: Adblocking Solutions for every device
 ## Browser
 
 - **Extension**
-  - [uBlock Origin](https://github.com/gorhill/uBlock) :s::ff::cr:
+  - [uBlock Origin](https://github.com/gorhill/uBlock) :glowing-star::ff::cr:
     - [uBO Website Fixes](https://old.reddit.com/r/uBlockOrigin/wiki/solutions/)
   - [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) :ff::cr:
   - [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html) :ff::cr:
   - [ClearURLs](https://docs.clearurls.xyz/) :ff::cr:
   - [FastForward](https://fastforward.team/) :ff::cr:
 - **Script**
-  - [AdsBypasser](https://adsbypasser.github.io/) [:gh:](https://github.com/adsbypasser/adsbypasser)
+  - [AdsBypasser](https://adsbypasser.github.io/) [:mdi-github:](https://github.com/adsbypasser/adsbypasser)
   - [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)
   - [Bypass.city](https://bypass.city/how-to-install-userscript)
 
 
 ## DNS
 - **Online Hosted**
-  - [NextDNS](https://nextdns.io/) :s:
+  - [NextDNS](https://nextdns.io/) :glowing-star:
   - [Adguard DNS](https://adguard-dns.io/en/welcome.html)
   - [Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
   - [dnswarden](https://dnswarden.com/index.html)
@@ -49,7 +49,7 @@ customDescription: Adblocking Solutions for every device
 - [AhaDNS](https://blitz-setup.ahadns.com/)
 - [BlahDNS](https://blahdns.com/)
 - [Control D](https://controld.com/free-dns)
-- [YogaDNS](https://yogadns.com/) :win:
+- [YogaDNS](https://yogadns.com/) :ic-baseline-window:
 - [LibreDNS](https://libredns.gr/)
 :::
 
@@ -69,7 +69,7 @@ Adding a lot of filters to your adblocker (that you don't specifically need) can
 | Topic | Solutions |
 |-|-|
 | Captcha | [Buster](https://github.com/dessant/buster) :ff::cr: <br> [NopeCHA](https://nopecha.com/) :ff::cr: |
-| Paywall | [Bye Bye Paywall](https://byebyepaywall.com/en/) :web: <br> [Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_updates) :ff::cr: <br> [Bypass Paywalls Clean Filters](https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters) :mdi-filter: |
+| Paywall | [Bye Bye Paywall](https://byebyepaywall.com/en/) :mdi-web: <br> [Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bpc_updates) :ff::cr: <br> [Bypass Paywalls Clean Filters](https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters) :mdi-filter: |
 | Others | [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) :ff::cr: |
 
 
@@ -79,7 +79,7 @@ Adding a lot of filters to your adblocker (that you don't specifically need) can
 |-|-|
 | [Discord](https://discord.com/) | [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin) :ic-twotone-css: |
 | [Fandom](https://www.fandom.com/) | [Fandom Fixed](https://github.com/squabbled/FandomFixed) :js: |
-| [Spotify](https://www.spotify.com/) |  [Spicetify](https://spicetify.app/) :win::app::lin: <br> [SPOTX](https://github.com/SpotX-Official/SpotX) :win: <br> [SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) :app::lin: |
+| [Spotify](https://www.spotify.com/) |  [Spicetify](https://spicetify.app/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: <br> [SPOTX](https://github.com/SpotX-Official/SpotX) :ic-baseline-window: <br> [SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) :ic-baseline-apple::mingcute-linux-fill: |
 | [Twitch](https://www.twitch.tv/) | [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) :ff::cr: <br> [Purple Adblock](https://github.com/arthurbolsoni/Purple-adblock/) :ff::cr::js:  <br> More [Twitch Ad Solutions](https://github.com/pixeltris/TwitchAdSolutions/blob/master/full-list.md) |
 | [Twitter](https://x.com/home) | [Control Panel for Twitter](https://github.com/insin/control-panel-for-twitter/) :ff::cr::js: <br> [OldTwitter](https://github.com/dimdenGD/OldTwitter) :ff::cr: |
 | [YouTube](https://www.youtube.com/) | [SponsorBlock](https://sponsor.ajay.app/) :ff::cr: |

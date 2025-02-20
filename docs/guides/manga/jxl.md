@@ -10,25 +10,25 @@ outline: [2,3]
 ## Readers
 
 ### Android
-- [Mihon](https://mihon.app/) [:gh:](https://github.com/mihonapp/mihon)
-  - [Yokai](https://mihon.app/forks/Yokai/) :s: [:gh:](https://github.com/null2264/yokai)
+- [Mihon](https://mihon.app/) [:mdi-github:](https://github.com/mihonapp/mihon)
+  - [Yokai](https://mihon.app/forks/Yokai/) :glowing-star: [:mdi-github:](https://github.com/null2264/yokai)
   - [Komikku](https://github.com/komikku-app/komikku)
 - [Komelia](https://github.com/Snd-R/Komelia) <Badge type="info" text="Komga" />
 
 ### iOS
-- [YACReader](https://apps.apple.com/app/id635717885) :s::paid::cs: [:tf:](https://testflight.apple.com/join/5zhB7sRP)
-- [Panels](https://apps.apple.com/us/app/panels-comic-reader/id1236567663) :fm::cs:
+- [YACReader](https://apps.apple.com/app/id635717885) :glowing-star::mdi-credit-card::mingcute-chrome-fill: [:tf:](https://testflight.apple.com/join/5zhB7sRP)
+- [Panels](https://apps.apple.com/us/app/panels-comic-reader/id1236567663) :mdi-cart::mingcute-chrome-fill:
 
 ### PC
 - **Dedicated**
-  - [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) :win:
-  - [YACReader](https://www.yacreader.com/) :win::app::lin: :warning: [:gh:](https://github.com/YACReader/yacreader) <tooltip>For some lossy original images it won't work. Kinda random.</tooltip>
-  - [Komelia](https://github.com/Snd-R/Komelia) :win::lin: <Badge type="info" text="Komga" />
-  - [MComix](https://sourceforge.net/projects/mcomix/files/) :win::lin: :warning: <tooltip>Doesn't work when the source is lossy image</tooltip>
+  - [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) :ic-baseline-window:
+  - [YACReader](https://www.yacreader.com/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill: :warning: [:mdi-github:](https://github.com/YACReader/yacreader) <tooltip>For some lossy original images it won't work. Kinda random.</tooltip>
+  - [Komelia](https://github.com/Snd-R/Komelia) :ic-baseline-window::mingcute-linux-fill: <Badge type="info" text="Komga" />
+  - [MComix](https://sourceforge.net/projects/mcomix/files/) :ic-baseline-window::mingcute-linux-fill: :warning: <tooltip>Doesn't work when the source is lossy image</tooltip>
 - **Photo Viewer**
-  - [XnView MP](https://www.xnview.com/en/xnviewmp/) :win::app::lin::cs:
-  - [Picview](https://picview.org/) :win: [:gh:](https://github.com/Ruben2776/PicView/)
-  - [Bandiview](https://en.bandisoft.com/bandiview/) :win::paid::cs:
+  - [XnView MP](https://www.xnview.com/en/xnviewmp/) :ic-baseline-window::ic-baseline-apple::mingcute-linux-fill::mingcute-chrome-fill:
+  - [Picview](https://picview.org/) :ic-baseline-window: [:mdi-github:](https://github.com/Ruben2776/PicView/)
+  - [Bandiview](https://en.bandisoft.com/bandiview/) :ic-baseline-window::mdi-credit-card::mingcute-chrome-fill:
 
 ## Guide
 
