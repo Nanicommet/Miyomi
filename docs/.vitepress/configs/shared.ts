@@ -314,7 +314,12 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     nav,
     socialLinks: [
       { icon: 'github', link: 'https://github.com/tas33n/miyomi' },
-      { icon: 'discord', link: '#' },
+      { icon: 'discord', link: 'https://discord.com/invite/kpfgBACTcs' },
+      { icon: 'facebook', link: 'https://www.facebook.com/iitachiyomi' },
+      { icon: 'instagram', link: 'https://instagram.com/iitachiyomi' },
+      { icon: 'telegram', link: 'https://t.me/iitachiyomi' },
+      { icon: 'youtube', link: 'https://youtube.com/@iimiyomi' },
+
     ],
     footer: {
       message: `<a href="https://github.com/tas33n/miyomi">The Miyomi Team</a> <span class="divider">|</span> <a href="https://github.com/tas33n/miyomi/commit/${GIT_COMMIT}">${GIT_COMMIT.slice(0, 7)}</a>`,

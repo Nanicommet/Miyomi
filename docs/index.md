@@ -12,19 +12,22 @@ hero:
     src: /asset/miyomi.png
     alt: Miyomi
   actions:
-    - theme: brand
-      text: Browse
-      link: /qs.md
+    # - theme: alt
+    #   text: Browse
+    #   link: /qs.md
     - theme: alt
       text: GitHub
       link: https://github.com/tas33n/Miyomi
     - theme: alt
       text: Discord
-      link: https://discord.gg/
+      link: https://discord.com/invite/kpfgBACTcs
+    - theme: alt
+      text: Facebook
+      link: https://www.facebook.com/iitachiyomi
 
 aside: left
 
-customDescription: A wiki that covers everything weeb-related!
+customDescription: Your one-stop hub for links, apps, extension repos and more! 🌟
 
 features:
   #   - title: Websites                                     # we will cook something here later
@@ -36,6 +39,11 @@ features:
   #       2v0c0 1.1.9 2 2 2v0a2 2 0 0 0 2-2v0c0-1.1.9-2 2-2h3.17M11 21.95V18a2 2 0 0 0-2-2v0a2 2 0 0
   #       1-2-2v-1a2 2 0 0 0-2-2H2.05"/><circle cx="12" cy="12" r="10"/></g></svg>
   #     link: /websites.md
+  - title: Quickstart
+    details: Get started quickly with our comprehensive guides
+    icon:
+      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M12 2v20M2 12h20"/></g></svg>
+    link: /qs.md
   - title: Software
     details: Software for every Operating System
     icon:
