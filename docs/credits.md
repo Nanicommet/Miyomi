@@ -9,20 +9,24 @@ prev: false
 import Credits from './.vitepress/theme/components/Contributors.vue'
 </script>
 
-
 <Credits />
 
 <br>
 
 :::center
+
 # Resource Credits
+
 :::
 
 <br>
 
 :::tabs
 
-== Art 
+== Art
+
+- [Phoebe](https://www.instagram.com/pb.yen)
+- Anderhale
 
 == Guide
 
