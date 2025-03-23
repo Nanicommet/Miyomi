@@ -41,8 +41,7 @@ features:
   #     link: /websites.md
   - title: Quickstart
     details: Get started quickly with our comprehensive guides
-    icon:
-      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M12 2v20M2 12h20"/></g></svg>
+    icon: <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M12 2v20M2 12h20"/></g></svg>
     link: /qs.md
   - title: Software
     details: Software for every Operating System
@@ -111,8 +110,8 @@ if (!import.meta.env.SSR) {
 
   const icon = document.querySelector(".VPImage.image-src");
 
-  if (icon) {
+/*  if (icon) {
     icon.addEventListener("click", handleClick);
-  }
+  } */
 }
 </script>
