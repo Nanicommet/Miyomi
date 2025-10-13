@@ -44,7 +44,18 @@ export default defineConfig({
       },
       warn: true,
       collections: {
-        custom: FileSystemIconLoader(resolve(__dirname, '.docs/public/custom'))
+        custom: FileSystemIconLoader(resolve(__dirname, '.docs/public/custom')),
+        twemoji: () => import('@iconify-json/twemoji/icons.json').then(i => i.default),
+        octicon: () => import('@iconify-json/octicon/icons.json').then(i => i.default),
+        logos: () => import('@iconify-json/logos/icons.json').then(i => i.default),
+        ic: () => import('@iconify-json/ic/icons.json').then(i => i.default),
+        mingcute: () => import('@iconify-json/mingcute/icons.json').then(i => i.default),
+        mdi: () => import('@iconify-json/mdi/icons.json').then(i => i.default),
+        'material-symbols': () => import('@iconify-json/material-symbols/icons.json').then(i => i.default),
+        'simple-icons': () => import('@iconify-json/simple-icons/icons.json').then(i => i.default),
+        gg: () => import('@iconify-json/gg/icons.json').then(i => i.default),
+        'icon-park-outline': () => import('@iconify-json/icon-park-outline/icons.json').then(i => i.default),
+        carbon: () => import('@iconify-json/carbon/icons.json').then(i => i.default),
       }
     })
   ],

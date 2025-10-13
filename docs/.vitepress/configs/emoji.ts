@@ -1,3 +1,18 @@
+/**
+  Copyright (c) taskylizard. All rights reserved.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+*/
 import type { MarkdownRenderer } from 'vitepress'
 import type { IconifyJSON } from '@iconify-json/octicon'
 
@@ -11,6 +26,8 @@ import { icons as mdi } from '@iconify-json/mdi'
 import { icons as materials } from '@iconify-json/material-symbols'
 import { icons as simple } from '@iconify-json/simple-icons'
 import { icons as gg } from '@iconify-json/gg'
+import { icons as iconParkOutline } from '@iconify-json/icon-park-outline'
+import { icons as carbon } from '@iconify-json/carbon'
 
 // 1. Install emoji pack with `pnpm add -g @iconify-json/<icon>`
 // 2. Import them like I did above
@@ -26,7 +43,9 @@ const emojis: { pack: IconifyJSON; prefix?: string }[] = [
   { pack: mdi, prefix: 'mdi-' },
   { pack: materials, prefix: 'material-symbols-' },
   { pack: simple, prefix: 'simple-icons-' },
-  { pack: gg, prefix: 'gg-' }
+  { pack: gg, prefix: 'gg-' },
+  { pack: iconParkOutline, prefix: 'icon-park-outline-' },
+  { pack: carbon, prefix: 'carbon-' }
 ]
 
 const defs: Record<string, string> = {}
