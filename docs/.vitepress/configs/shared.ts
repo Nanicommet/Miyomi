@@ -30,6 +30,24 @@ const GIT_COMMIT =
   )) ??
   'dev'
 
+const publicDirAliases = [
+  'asset',
+  'banner',
+  'christmas',
+  'custom',
+  'glossary',
+  'icon',
+  'pfp',
+  'plushies',
+  'rm',
+  'ss',
+  'thumb',
+  'torrenting'
+].map((dir) => ({
+  find: new RegExp(`^/${dir}`),
+  replacement: fileURLToPath(new URL(`../../public/${dir}`, import.meta.url))
+}))
+
 // @unocss-include
 const nav: DefaultTheme.NavItem[] = [
   {
@@ -368,6 +386,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     ],
     resolve: {
       alias: [
+        ...publicDirAliases,
         {
           find: /^.*\/VPBadge\.vue$/,
           replacement: fileURLToPath(
