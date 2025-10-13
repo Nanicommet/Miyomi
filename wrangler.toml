@@ -1,5 +1,4 @@
 name = "miyomi"
-main = ".output/server/index.mjs"
-workers_dev = true
-account_id = "fe5d9bd14160b07939282e45f63eb5ad"
-compatibility_date = "2022-09-10"
+account_id = "4ddb60bfed3d085fcb9ea40e0d1052b8"
+compatibility_date = "2025-10-13"
+pages_build_output_dir = "docs/.vitepress/dist"
