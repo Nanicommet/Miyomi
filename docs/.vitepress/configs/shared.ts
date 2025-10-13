@@ -30,23 +30,27 @@ const GIT_COMMIT =
   )) ??
   'dev'
 
-const publicDirAliases = [
-  'asset',
-  'banner',
-  'christmas',
-  'custom',
-  'glossary',
-  'icon',
-  'pfp',
-  'plushies',
-  'rm',
-  'ss',
-  'thumb',
-  'torrenting'
-].map((dir) => ({
-  find: new RegExp(`^/${dir}`),
-  replacement: fileURLToPath(new URL(`../../public/${dir}`, import.meta.url))
-}))
+const publicDirAliases = Object.entries(
+  Object.fromEntries(
+    [
+      'asset',
+      'banner',
+      'christmas',
+      'custom',
+      'glossary',
+      'icon',
+      'pfp',
+      'plushies',
+      'rm',
+      'ss',
+      'thumb',
+      'torrenting'
+    ].map((dir) => [
+      `/${dir}`,
+      fileURLToPath(new URL(`../../public/${dir}`, import.meta.url))
+    ])
+  )
+).map(([find, replacement]) => ({ find, replacement }))
 
 // @unocss-include
 const nav: DefaultTheme.NavItem[] = [
