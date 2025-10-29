@@ -1,4 +1,4 @@
-import { Plus, Package, Star, Github, MessageSquare, Facebook, Sparkles, Zap, Shield,twitter, BookOpen } from 'lucide-react';
+import { Plus, Package, Star, Github, MessageSquare, Facebook, Sparkles, Zap, Shield, twitter, BookOpen } from 'lucide-react';
 import { Button } from '../components/Button';
 import avatarImage from 'figma:asset/polic.png';
 import React from 'react';
