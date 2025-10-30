@@ -335,7 +335,16 @@
     "logoUrl": "https://avatars.githubusercontent.com/tachimanga",
     "keywords": ["ios", "extensions"],
     "supportedExtensions": [],
-    "lastUpdated": "2025-10-06"
+    "lastUpdated": "2025-10-06",
+    "githubUrl": "https://tachimanga.app/",
+    "tutorials": [
+      {
+        "title": "Tachimanga Quick Start Guide",
+        "type": "guide",
+        "url": "https://tachimanga.app/help/guides/get-started.html#reading-from-local-source",
+        "description": "Official quick start that covers installation and first-time configuration."
+      }
+    ]
   },
   {
     "id": "suwatte",
