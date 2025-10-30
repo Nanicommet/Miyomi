@@ -161,7 +161,8 @@
     "logoUrl": "https://avatars.githubusercontent.com/Jays2Kings",
     "keywords": ["mihon fork", "j2k"],
     "supportedExtensions": ["kohiden"],
-    "lastUpdated": "2025-10-13"
+    "lastUpdated": "2025-10-13",
+    "githubUrl": "https://github.com/Jays2Kings/TachiyomiJ2K"
   },
   {
     "id": "yokai",
@@ -185,7 +186,8 @@
     "logoUrl": "https://avatars.githubusercontent.com/komikku-app",
     "keywords": ["open source", "offline"],
     "supportedExtensions": [],
-    "lastUpdated": "2025-10-10"
+    "lastUpdated": "2025-10-10",
+    "githubUrl": "https://github.com/komikku-app/komikku"
   },
   {
     "id": "neko",
@@ -197,7 +199,8 @@
     "logoUrl": "https://avatars.githubusercontent.com/nekomangaorg",
     "keywords": ["mangadex"],
     "supportedExtensions": [],
-    "lastUpdated": "2025-10-09"
+    "lastUpdated": "2025-10-09",
+    "githubUrl": "https://github.com/nekomangaorg/Neko"
   },
   {
     "id": "perfect-viewer",
@@ -245,7 +248,8 @@
     "logoUrl": "https://avatars.githubusercontent.com/LNReader",
     "keywords": ["light novel", "extensions"],
     "supportedExtensions": [],
-    "lastUpdated": "2025-10-11"
+    "lastUpdated": "2025-10-11",
+    "githubUrl": "https://github.com/LNReader/lnreader"
   },
   {
     "id": "quicknovel",
