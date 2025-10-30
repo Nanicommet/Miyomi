@@ -174,7 +174,9 @@
     "logoUrl": "https://raw.githubusercontent.com/null2264/yokai/master/.github/readme-images/app-icon.webp",
     "keywords": ["mihon fork", "fast"],
     "supportedExtensions": ["kohiden"],
-    "lastUpdated": "2025-10-12"
+    "lastUpdated": "2025-10-12",
+    "githubUrl": "https://github.com/null2264/yokai",
+    "discordUrl": "https://discord.com/invite/mihon"
   },
   {
     "id": "komikku",
